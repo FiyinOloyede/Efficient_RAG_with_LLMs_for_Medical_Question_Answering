@@ -7,8 +7,6 @@ scikit-learn
 # TensorFlow and Keras
 tensorflow-cpu==2.16.1
 tf-keras==2.16.0
-keras
-tensorflow
 
 # NLP and Transformers
 transformers==4.53.0
@@ -17,9 +15,6 @@ bitsandbytes
 accelerate
 evaluate
 nltk
-rouge_score
-sacrebleu
-bert-score
 sentence-transformers
 
 # Vision and OCR
