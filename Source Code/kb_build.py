@@ -11,7 +11,7 @@ pytesseract.pytesseract.tesseract_cmd = r"C:\Users\Student\Tesseract-OCR\tessera
 
 # Set up the document loader for PDFs and text files for Knowledge base build
 loader = DirectoryLoader(
-    "Knowledge base build",
+    "Knowledge base",
     glob=["**/*.txt", "**/*.pdf"],
     loader_cls=UnstructuredFileLoader,
     loader_kwargs={}, 
@@ -43,7 +43,7 @@ print(f"Loaded {len(chunks)} chunks from cache.")
 
 # Set up the document loader for PDFs and text files for Knowledge base build (with dataset contexts)
 loader2 = DirectoryLoader(
-    "Knowledge base build (with dataset contexts)",
+    "Knowledge base (with dataset contexts)",
     glob=["**/*.txt", "**/*.pdf"],
     loader_cls=UnstructuredFileLoader,
     loader_kwargs={}, 
@@ -84,7 +84,7 @@ embedding_model_gtr = HuggingFaceEmbeddings(
 vector_db_gtr = FAISS.from_documents(chunks, embedding_model_gtr)
 vector_db_gtr2 = FAISS.from_documents(chunks2, embedding_model_gtr) # dataset contexts
 
-# Save the FIASS vetor stores
+# Save the FIASS vector stores
 vector_db_gtr.save_local('vector_store_gtr-t5-large')
 vector_db_gtr2.save_local('vector_store_gtr-t5-large2') # dataset contexts
 
@@ -100,6 +100,7 @@ embedding_model_sbb = HuggingFaceEmbeddings(
 vector_db_sbb = FAISS.from_documents(chunks, embedding_model_sbb)
 vector_db_sbb2 = FAISS.from_documents(chunks2, embedding_model_sbb) # dataset contexts
 
-# Save the FAISS vetor stores
+# Save the FAISS vector stores
 vector_db_sbb.save_local('vector_store_pritamdeka')
 vector_db_sbb2.save_local('vector_store_pritamdeka2') # dataset contexts
+
