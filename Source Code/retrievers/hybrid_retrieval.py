@@ -5,24 +5,24 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import torch
 
 
-# Create ensembles combining BM25 Retriever and different variant of dense retrievers with equal weights
+# Create ensembles combining BM25 Retrievers and different variant of dense retrievers with equal weights
 ensemble_gtr = EnsembleRetriever(
-    retrievers=[bm25_retriever, dense_retriever_gtr],
+    retrievers=[bm25_retriever, dense_retriever_gtr], # retrievers + external knowledge base
     weights=[0.5, 0.5] # balance influence from each
 )
 
 ensemble_gtr2 = EnsembleRetriever(
-    retrievers=[bm25_retriever2, dense_retriever_gtr2], # retrievers + dataset contexts
+    retrievers=[bm25_retriever2, dense_retriever_gtr2], # retrievers + external knowledge base with dataset context
     weights=[0.5, 0.5] # balance influence from each
 )
 
 ensemble_sbb = EnsembleRetriever(
-    retrievers=[bm25_retriever, dense_retriever_sbb],
+    retrievers=[bm25_retriever, dense_retriever_sbb], # retrievers + external knowledge base
     weights=[0.5, 0.5] # balance influence from each
 )
 
 ensemble_sbb2 = EnsembleRetriever(
-    retrievers=[bm25_retriever2, dense_retriever_sbb2],  # retrievers + dataset contexts
+    retrievers=[bm25_retriever2, dense_retriever_sbb2],  # retrievers + external knowledge base with dataset context
     weights=[0.5, 0.5] # balance influence from each
 )
 
