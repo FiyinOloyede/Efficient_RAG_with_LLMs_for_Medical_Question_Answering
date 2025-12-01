@@ -1,0 +1,1041 @@
+question,expected,predicted,is_correct,latency_sec,prefill_words
+A 29 yrs old woman with a pregnancy of 17 week has a 10 years old boy with down syndrome. She does not want another down syndrome kid; best advice to her is,C,A,False,2.2301299571990967,577
+Which of the following statements is true regarding H I N1 Influenza?,A,A,True,1.4021058082580566,572
+Diagnosis of the following ECG-,B,A,False,1.3729395866394043,495
+27.	The lateral spread of dental caries is facilitated mostly  by the,B,B,True,1.3497023582458496,535
+A second-year PG resident tells you to perform an ABG of a patient. All of the following are true about performing an ABG except:,A,A,True,1.3367412090301514,548
+Gait apraxia is seen in thromboembolic episode involving:,A,C,False,1.3848166465759277,549
+Which of the following is not. true regarding myelopathy?,B,A,False,1.3122174739837646,538
+Which one of the following is a muscle splitting incision?,D,B,False,1.3725533485412598,614
+"If the Rb gene phosphorylation is defective, which of the following will happen?",A,A,True,1.413724660873413,595
+"In plasmodium vivax malaria, relapse is caused by:September 2012",C,C,True,1.3984088897705078,483
+How is modified shock index represented as?,A,A,True,1.3537859916687012,476
+Base pairs in DNA,C,C,True,1.3153307437896729,453
+"A 60 years old male presented with fever, chills and dysuria. Patient was hospitalized in emergency for 5 days. PSA level was 7.4. Next best step in this patient:",D,C,False,1.4220852851867676,554
+The most common bone tumor that occurs in children is:,A,B,False,1.3670330047607422,584
+"In a couple for treatment of infeility from the last four years, female paner is normal. Male paner has 0.8 ml semen volume per ejaculate on two repeated samples and absent fructose, with no sperms on examination under microscope. What is the next line of management?",D,A,False,1.3436884880065918,539
+In a patient of heart disease antibiotic prophylaxis for dental extraction is:,A,A,True,1.3625328540802002,465
+"Polydactyly, craniosynostosis, Late closure of fontanelles is a feature of:",A,A,True,1.381906270980835,531
+Physiological changes seen in laparoscopy include all except:,D,D,True,1.3547184467315674,530
+Increase in height of mandible with increase in interdental spaces in elderly man,A,D,False,1.34316086769104,474
+Vwf factor is produced by:,B,A,False,1.3874471187591553,479
+A prosthetic appliance given to cover the palatal defect in patients with cleft palate is called,B,A,False,1.327671766281128,501
+Which facial bone is most prone to fracture?,B,C,False,1.3764517307281494,557
+"A one year old child, who is earlier normal, is suffering from copious nasal discharge, coarse facial features, large tongue, bulging head and flattened nose. He is also having enlarged spleen and liver. What may be the cause?",D,B,False,1.346367359161377,526
+A patient diagnosed with carcinoma of lung presented with a serum calcium level of 16.4 mmol/L. What will be the first step in management?,A,B,False,1.3719053268432617,544
+In Xerostomia the salivary pH is:,B,B,True,1.340585708618164,538
+In DIC following are seen except,C,C,True,1.3599669933319092,553
+In dentistry which sedatives are generally used:,A,A,True,1.3356091976165771,524
+In case of Fracture of mandible; alveolar border experiences which force,A,B,False,1.379685640335083,541
+Most common presentation of abdominal desmoids tumor is?,B,B,True,1.3328800201416016,563
+"A 75 year old chronic smoker who is diabetic and edentulous for the last 30 years has a bilateral body fracture, best treatment modality is",B,A,False,1.4012882709503174,567
+The most common bone cancer is:,B,B,True,1.3753910064697266,541
+Amyloid protein in Hemodialysis associated with amyloidosis is-,C,C,True,1.284022569656372,523
+"In a patient with fresh blow out fracture of the orbit, best immediate management is",A,A,True,1.3437445163726807,530
+Which of the following is not the component of qSOFA?,D,D,True,1.3872568607330322,515
+How much hone can be stretched at a time before it fractures:,B,B,True,1.3723371028900146,585
+Which of these conditions  does not require SABE prophylaxis,D,A,False,1.2958557605743408,388
+"Patient with PPF transfusion complaint of breathing difficulty, tachycardic, tachypnia, Had Batwing sign present in X-ray. What will be the possible reason?",B,A,False,1.4019253253936768,592
+Which of these is not a theory of TMJ ankylosis?,B,C,False,1.3469734191894531,525
+Characteristic histopathological feature of basal cell car cinoma is,A,A,True,1.341031789779663,504
+Most common mediastinal tumor:,A,B,False,1.3750951290130615,534
+Speech problems in cleft palate patients are due to,B,B,True,1.3254265785217285,454
+"In alpha-thalassemia trait,electrophoresis shows:March 2005",B,A,False,1.311732292175293,442
+Ludwig's angina is characterized by,A,D,False,1.3119823932647705,461
+Median rhomboid glossitis is associated with:,D,A,False,1.3695259094238281,540
+Which of the following diseases is diagnosed with the help of the flowcytometry pattern?,C,D,False,1.3481080532073975,585
+Best indicator of developing cardiovascular disease is,C,B,False,1.337723731994629,513
+Pulmonary-renal syndromes include-,D,D,True,1.267625093460083,497
+Oil red '0' stain is used for:,D,A,False,1.2823710441589355,475
+A female with suspected child abuse was brought to the casualty with severe bleeding from the perineum. What should be the first line of management?,A,A,True,1.3007802963256836,510
+Bacteria free zone of dentinal caries is,D,C,False,1.2896795272827148,521
+All are true about isolated aoic stenoses except:,A,C,False,1.2822654247283936,542
+"Which of the following is the most common site for the
+occurrence of a basal cell carcinoma?",C,C,True,1.3153889179229736,539
+Which of the following statements is false in relation to myofacial pain dysfunction syndrome?,D,A,False,1.3088874816894531,580
+Which of the following features is not seen in Crouzon syndrome?,B,B,True,1.2292778491973877,360
+Which of the following is characterized by Apple Jelly Nodules?,B,C,False,1.2294285297393799,469
+"A 50 years okl smoker and hypeensive was diagnose to have non-small cell lung carcinoma with brain metastases. He is on enalapril and hydrochlorothiazide for hypeension. On investigation, he had a serum Sodium 120 mg/dl|, Urinary Sodium ll0 mg/dl, Serum creatinine 0.8 mg/dL, Serum osmolarity 285 mOsm/L, Urinary osmolarity 35l mOsm/L, Urinary K+ 9 mg/dl, Blood sugar ll2 mgldL and BP of 150/90 mm Hg. Which of the following is the mnst probable cause for his hyponatremia?",C,A,False,1.4011693000793457,613
+"A 40 year male complaining of hot flushes each time he baths. Hb: 20%gm, Platelet: 89,000/mL, WBC: 30,000/mL, Investigation revealed JAK2 mutation. What is the most likely diagnosis?",C,D,False,1.3346562385559082,601
+A 55- year old diabetic patient presents with transient obscuration in vision for 2-3 days followed by sudden loss of vision. Which of the following would be the best test to evaluate the symptoms?,D,D,True,1.333125114440918,573
+Iron entry into enterocytes occurs which of the following?,A,A,True,1.2926204204559326,527
+All of the following complications are more common in ventouse assisted delivery than forceps except:,D,A,False,1.3330180644989014,613
+All of the following are true about aspiration pneumonia except:,B,B,True,1.2967963218688965,560
+Which of the following is not associated with haemorrhage?,C,C,True,1.2386209964752197,452
+Biopsy specimens removed for examinations are immediately placed in:,B,B,True,1.3223927021026611,587
+True open bite is caused by,A,A,True,1.349137544631958,540
+Cleft lip is due to non-union of,A,A,True,1.2975142002105713,467
+"What is the name of the given instrument, used for harvesting the graft from healthy area in split thickness skin graft?",D,A,False,1.2858445644378662,471
+Extraction of disto-angular impaction of mandibular 3rd molar can cause:,B,A,False,1.2719969749450684,537
+Peau d'orange in carcinoma breast is due to:,A,A,True,1.3186886310577393,558
+"True about adult polycystic kidney disease is all, except:",B,B,True,1.2926716804504395,510
+Long term assessment of glucose control can be made by:,D,D,True,1.2794861793518066,508
+Mosaic pattern of bone is seen in radiographic features of:,B,A,False,1.3059680461883545,510
+"In Myocardial infarction, the major pathology is",B,A,False,1.2974326610565186,483
+‘Fleur -de- lys’ term is used for:,A,A,True,1.3162355422973633,570
+Renal feed for CKD patients-,C,A,False,1.4110777378082275,492
+In rheumatoid arthritis there is inflammation of:,B,B,True,1.0629491806030273,494
+"A 40 years old female presented with acute onset shoness of breath. She has a history of nephrotic syndrome 1 year back and recent prolonged air travel. She has a BP of 90/60 mm Hg, hea rate of 115 per minute and sinus tachycardia on ECG. A 2-D echocardiogram revealed dilation of right ventricle with bulging of the interventricular septum to the left. What will be the primary treatment modality?",B,D,False,1.3221993446350098,596
+After spleenectomy patient becomes more prone to,D,A,False,1.276066780090332,502
+"Gap healing, a type of primary healing having gap of 0.8 mm is healed as:",B,B,True,1.3038389682769775,573
+Staphylococcus aureus and pneumoniae are responsible for:,B,B,True,1.3005239963531494,491
+Which of the following is the best test for assessment of intestinal malabsorption?,A,A,True,1.3265571594238281,578
+Microangiopathic hemolytic anemia,B,A,False,1.3225123882293701,551
+Which of following is not a tumor suppressor gene?,D,D,True,1.2886991500854492,484
+"A 40 year old woman has arneloblastoma, the histomorphologic features will be",A,A,True,1.3090121746063232,609
+A 28 year old man has lenticonus and end stage renal disease now. His maternal uncle also died of the same illness. What is the most likely diagnosis?,D,D,True,1.2886872291564941,533
+"Pterygomandibular space contains all, except:",B,A,False,1.2702269554138184,532
+Which of the following statements is false about apoptosis?,C,A,False,1.270510196685791,431
+Self injury most likely caused after extraction in children is,A,A,True,1.305577039718628,503
+"Patient with increased PT, APTT & TT and normal fibrinogen and platelet counts, diagnosis is?",D,D,True,1.242779016494751,457
+Tracheostomy will:,C,A,False,1.2529993057250977,454
+All are diseases of skin except,C,B,False,1.3024303913116455,520
+Anti-centromere antibodies seen in which of the followings conditions:,D,D,True,1.322814702987671,554
+Infective endocarditis is least common in :,D,D,True,1.4293646812438965,618
+Facial nerve lies:,D,A,False,1.34824800491333,448
+"For >10 mm setback of mandible, which of these surgeries is most suitable:",B,A,False,1.3757200241088867,533
+The definition of pyrexia of unknown origin includes all except:,B,A,False,1.494126319885254,626
+Which Hodgkin’s disease is associated with best prognosis?,A,D,False,1.4270756244659424,504
+________occurs whenever there is an imbalance between myocardial oxygen supply and demand.,B,C,False,1.3840124607086182,442
+Endocarditis culture sampling is done as:,D,A,False,1.3661668300628662,485
+Delayed haemolytic transfusion involves all except?,B,D,False,1.4666247367858887,519
+All the following can lead to damage of the axillary nerve except:,C,B,False,1.4104821681976318,519
+Histopathologic study of lichen planus shows:,B,A,False,1.3624670505523682,448
+"Incision given within hairline, 45° to zygoma is:",A,A,True,1.4006381034851074,518
+"A 42 years old male patient presented with jaundice. His AST was 48 U, ALT was 51 U, ALP, GGTP were normal. Ultrasound of liver was suggestive of cirrhosis. Viral markers were done and the following results were obtained.TestResultAnti-HAVNegativeAnti-HBsAgNegativeAnti-HBeAgNegativeAnti-HBcAg IgGPositiveAnti-HBcAg IgMNegativeHBsAgNegativeAnti-HCVPositiveAnti-HEVNegativeWhat is the next best step in management of this patient?",C,D,False,1.4970123767852783,579
+Which is associated with defect in DNA repair,A,A,True,1.3895413875579834,534
+A 55-year-old male presents with severe backache for 10 days and urinary incontinence with a H/o Interveebral lumbar disc prolapse. There is no H/o fever or weight loss. What is the likely diagnosis?,C,C,True,1.4335899353027344,577
+Pediatric patient planned for costochondral graft for TMJ ankylosis is intubated best by,C,C,True,1.4286537170410156,538
+Thyroglossal fistula is:,B,B,True,1.3338642120361328,492
+"A65-year-old male adult presents with chronic sinusitis, nasopharyngeal ulcers, cavitatory lung nodules and renal failure. What will be the appropriate next diagnostic step?",C,B,False,1.397244930267334,550
+All of the following are true about COPD except:,D,A,False,1.383685827255249,504
+Geniculate neuralgia is caused in the nerve,A,A,True,1.3737645149230957,502
+Easiest 3rd molar surgical extraction is:,A,B,False,1.425863265991211,550
+Obstructive sleep apnoea caused by the following,D,D,True,1.411590337753296,564
+Von Willebrand factor is secreted by which of the following?,B,B,True,1.3517215251922607,499
+Factors affecting the treatment of MI,C,C,True,1.4072260856628418,527
+An 80 kg male patient presented to the emergency with hypotension and you have been instructed to sta him on an inotrope at a dose of 10 mcg/kg/min. Each 5 mL amp of the drug contains 200 mg drug. You choose 2 ampules of the drug and decide to mix it with saline to make a 250 mL solution. What should be the flow rate of the drug solution to maintain the BP of the patient (assuming 16 drops = 1 mL)?,B,B,True,1.3971266746520996,631
+Which of the following is not ture about increased intracraniaL pressure,C,C,True,1.388732671737671,553
+"In which stage of neurocysticercosis, there is no edema?",D,C,False,1.400650978088379,477
+Which of the following is not a pa of the quadruple test for antenatal detection of Down syndrome?,D,D,True,1.4352333545684814,513
+Infected mandibular angle fracture is treated by?,D,D,True,1.3653323650360107,544
+Ptosis may be caused by a lesion of the:,A,A,True,1.3981287479400635,444
+Neoplasia of blood vessel is called,A,A,True,1.4506373405456543,529
+A voluntary donor underwent apheresis for platelet donation for the first time after which he developed perioral tingling and numbness. This is seen because,D,D,True,1.3941552639007568,461
+Which of the following PPE (Personal Protective Equipment) is removed first?,A,B,False,1.3371765613555908,501
+"A cyst occurs under the tongue, caused by obstruction of a salivary gland. Such a cyst is called:",B,B,True,1.3552155494689941,554
+"A 20 years old boy presented with persistent cervical lymphadenopathy for the past 1 year. Histopathology of lymph node shows Reed-Sternberg cells with focal nodularity and background of T reactive lymphocytes. The cells were positive for CD20, LCA, EMA and negative for CD15 and CD30 and EBV negative. Diagnosis is:",A,A,True,1.4284324645996094,606
+Most common pathognomonic sign of mandibular fracture:,A,A,True,1.5167956352233887,604
+"Open reduction of condylar fracture is strongly indicated in
+(Or)
+Absolute indication for open reduction in condylar fractures",B,A,False,1.3458929061889648,554
+"A patient underwent laparoscopic cholecystectomy and was discharged on the same day. On postoperative day 3, he presented to the hospital with fever. Ultra-sonography showed a 5 x 5 cm collection in the right sub diaphragmatic region. What will be the manage!ment?",C,A,False,1.4077832698822021,493
+"About Transfusion Related Acute Lung Injury (TRALI), all of the following are true except:",A,D,False,1.3704710006713867,517
+Endocarditis is most commonly seen in:,A,B,False,1.4317622184753418,573
+"A patient with multiple loose teeth requires extraction and has mitral stenosis with mild cardiac insufficiency. He is on enalapril, digoxin, and furosemide. The antibiotic of choice to prevent bacterial endocarditis is:",A,C,False,1.4342000484466553,532
+An I.V. drug abuser presents with fever for 10 days. CXR shows B/L lower lobe consolidation with necrosis and right sided pyopneumothorax. Probable diagnosis is:,B,C,False,1.384535551071167,484
+The joint which histologically & morphologically best simulate the TMJ is,C,D,False,1.4601449966430664,511
+"A patient sustained A and endotracheal intubation was done. Most likely GCS score of such a patient would be:March 2013 (b, c, d)",A,A,True,1.3727896213531494,574
+Rapid onset of action seen by local anesthesia in small nerve endings is due to,C,A,False,1.3159804344177246,558
+Hyperparathyroidism is associated with:,D,D,True,1.298243522644043,540
+"Surgery on the hard palate of a 3 years old cleft patient may inhibit growth, causing the facial profile to become:",D,A,False,1.3581838607788086,597
+"Which of the following tooth structure during formation
+is most effected due to Vit -A deficiency",A,A,True,1.2843821048736572,449
+Acromegaly occurs:,B,B,True,1.30306077003479,534
+Fordyce's spots are:,C,A,False,1.3670246601104736,593
+Most common site of CSF Rhinorrhoea is,D,D,True,1.3289594650268555,535
+A young patient is diagnosed to have irreparable tear of the rotator cuff. Treatment of choice will be:,A,B,False,1.3870091438293457,575
+"A 22 year old female in emergency presents with sore throat from 3 days, headache and vomiting, blood pressure 90/50, tiny red spots distal to sphygomomanometer cuff",B,A,False,1.3549253940582275,582
+"Hypogonadism, developmental delay, loss of taste and
+smell is due to deficiency of:",B,B,True,1.3337836265563965,528
+A young man was on high protein diet. After 3 days he developed weakness. Blood investigation revealed hypoglycemia. Hypoglycemia is due to inhibition of which of the following enzymes,D,A,False,1.3610179424285889,581
+Increased Monocytic count is seen in Typhoid and which of the following conditions?,B,A,False,1.343310832977295,553
+Radiation affects all three germ layers (ectoderm mesoderm and endoderm) in which of the following,A,A,True,1.3271844387054443,604
+Which of the following is a tool used in gene editing?,A,A,True,1.3475306034088135,573
+All of the following features are suggestive of asbestosis except:,A,A,True,1.2716219425201416,424
+Which of following in not true about SLE?,B,B,True,1.323962926864624,575
+The surgical registrar successfully performs a testicu!lar biopsy and hands over the specimen to the attend!ing nurse. The sister asks you how to send the speci!men to the pathologist. What fluid will you tell the sister to put the specimen in?,C,D,False,1.371659517288208,577
+A 4-year old girl presents with severe vomiting after a viral fever of 5 days. She is hospitalized and develops cerebral edema. Liver biopsy is most likely to demonstrate w hich of the following?,D,D,True,1.3338100910186768,547
+APAF-1 is involved in the activation of which of the following casapses?,B,B,True,1.2998600006103516,497
+Renal osteodystrophy differs from nutritional and genetic form of osteomaLacia in having:,D,A,False,1.323660135269165,566
+Best guide for the management of Resuscitation is:,B,A,False,1.319800853729248,537
+A patient who is on a regimen of steroid therapy and has need for extraction of chronically infected teeth requires premedication with,D,A,False,1.3357505798339844,511
+Nimodipine is approved for use in:,D,D,True,1.316239595413208,492
+"The feature that distinguishes herpes zoster from other 
+vesiculo butlous eruptions is",A,A,True,1.3428540229797363,581
+"A 60-year-old chronic smoker presented with progres-sive jaundice, pruritus and clay colored stools for 2 months. History of waxing and waning of jaundice was present. A CT scan revealed dilated main pancre-atic duct and common bile duct. What is the likely di-agnosis?",B,D,False,1.3470242023468018,537
+Patellar cluck syndrome is interposition of soft tissue at or hyperophied scar:,B,A,False,1.2964797019958496,497
+"A 12-years-old boy presents with a symmetric, expansile cystic lesion in the proximal humerus. All of the following can be done for his treatment except",B,A,False,1.3525419235229492,578
+Iron is taken up into enterocytes through which of the following?,B,B,True,1.3946661949157715,542
+Which is not associated with GDM (Gestational DM)?,C,A,False,1.353417158126831,502
+Which of the following is false about Transfusion-Related Acute Lung Injury?,A,D,False,1.41501784324646,624
+Trismus is due to inflammation of:,A,A,True,1.4095046520233154,605
+"In dislocation of the jaw, displacement of the
+articular disc beyond the articular tubercle of the temporomandibular joint results from spasm or excessive contraction of the following muscle?",B,B,True,1.299971580505371,426
+"40-year male patient who was a known smoker presents in AIIMS OPD with fever, latigue, jaundice, yellow colored urine with clay colored stools. For the past few days he had developed aversion to cigarette smoking. On examination scleral icterus was present. LFT are:Total Bill18.5Direct Bill7.5SGOT723SGPT812What investigations will you send for ruling out acute viral hepatitis?",B,A,False,1.4391465187072754,659
+Thirty-eight children consumed eatables procured from a single source at a picnic party. Twenty children developed abdominal cramps followed by vomiting and watery diarrhea 6-10 hours after the party. The most likely etiology for the outbreak is:,D,C,False,1.3833580017089844,556
+Cleft in facial region;,B,A,False,1.3825032711029053,498
+Which of the following is true regarding blood transfusion of packed RBC?,B,C,False,1.3228297233581543,542
+Which of the following has intracellular receptor -,D,B,False,1.3972296714782715,595
+Lidocaine is used more commonly in dentistry because :,C,A,False,1.409494400024414,591
+"A boy presented with a history of fever, headache and vomiting since 3 days and disorientation since I day. On examination, neck rigidity was positive. He also had 1 episode of generalized tonic clonic seizures (GTC) and then he became unconscious. CECT was found to be normal. CSF examination reveals a cell count of 300 cells/mm3 (polymorphs: 50-70%), protein 70 mg/dL, sugar 50 mg/dL (blood: 95 mg/dL). Which of the following is the most likely diagnosis?",A,B,False,1.4044620990753174,636
+All of the following statements about insulin Afreeza are true except,D,B,False,1.3268330097198486,561
+Which of the following is used in the management of haemophillic patient?,A,A,True,1.37675142288208,430
+"A man comes with aphasia. He is unable to name things and repetition is poor. However comprehension, fluency and understanding written words is unaffected. He is probably suffering from:",D,A,False,1.3330297470092773,563
+ABCDE mnemonic is used for which disease?,B,B,True,1.3569762706756592,501
+"Nowadays, swine flu is in news, it is considered as",A,A,True,1.3785827159881592,521
+A 55-year-old male presents with renal failure. He gives a history of mild bone pains for the last 7 years. X-ray pelvis shows osteolytic lesions. Serum electrophoresis reveals a M spike. Peripheral blood evaluation showed rouleaux formation of RBCs with 35% plasma cells. Bone marrow examination showed a increase in plasma cells with aberrant antigen expression. The most likely diagnosis is:,A,A,True,1.4021525382995605,525
+Vitamin K dependent factor is,A,B,False,1.385892391204834,475
+Myelinated nerve fibres have all of the following properties except,A,A,True,1.3818681240081787,557
+"A 70 years old patient presents with a lesion on the cheek with raised, pearly borders and with telangiectasias on surface of the lesion. What is the likely diagnosis?",A,D,False,1.3763928413391113,514
+A 12 - year - old boy had a cut in his forearm 4 days ago. Now the bleeding has been stopped due to granulation tissue formation. While taking a skin biopsy a pa of the granulation tissue was also included in the specimen. The histology of granulation tissue is shown below. Which type of collagen is found in this granulation tissue?,C,C,True,1.3949816226959229,595
+Most common cause of recurrent laryngeal nerve palsy is:,B,B,True,1.3569459915161133,474
+Numbness on shaving after parotidectomy due to which nerve injury?,B,A,False,1.421522617340088,582
+True about enameloma,A,A,True,1.42311429977417,531
+Which of the following is NOT the criteria to discharge a patient of dengue haemorrhagic fever?,D,C,False,1.3903403282165527,507
+which one of the following shows 'Blueberry lips'?,A,D,False,1.3199551105499268,464
+A surgeon with less experience of laparoscopic cholecystectomy while doing laparoscopic surgery found some stone in common bile duct. What should he ideally do?,D,B,False,1.4210505485534668,533
+"In sequencing for panfacial trauma, requires the first reduction and fixation of:",D,A,False,1.436042070388794,490
+The best preferred biochemical marker for MI,B,B,True,1.4671416282653809,597
+An epithelial lining is typically found in all of the following except:,C,C,True,1.4752321243286133,510
+"A Patient is having Ph- 7.12, HCO3- 28 and PCO2- S0mmhg. What is the acid base disorder in this patient?",C,A,False,1.3446414470672607,534
+"A young female patient presents with jaundice and elevated liver enzymes. She has a history of two smilar episodes in the past. Her serum ANA was 1:40 and IgG was 2400 IU. Her serum copper levels were normal and viral markers were negative. A liver biopsy was carried out and based on the pathology repo, you treated her with immunosuppressants and the patient's condition improved. What was the most likely finding on pathology repo to suggest the treatment?",C,A,False,1.4044785499572754,597
+Rearrange the sequence of hand washing: a. b. c. d.,A,A,True,1.376624584197998,408
+Organism which causes bacterial endocarditis:,C,B,False,1.379281997680664,509
+Which of the following cannot be diagnosed without positive ANA?,B,D,False,1.4215211868286133,562
+Lesions of oral tuberculosis are associated with all the following except:,B,A,False,1.3690893650054932,540
+Intra-epithelial bulla are found in,A,A,True,1.3329577445983887,488
+Kraissl's lines arc:,D,A,False,1.3426313400268555,447
+A surgeon decides to operate a patient of carcinoma cecum and perform a right hemicolectomy through a midline laparotomy approach. You have been instructed to prepare the pas of the patient for surgery. What will you do?,A,C,False,1.4312207698822021,575
+Which is responsible for adhesion of platelet on exposed collagen fibril after an injury,A,A,True,1.3892056941986084,578
+Transformation into osteosarcoma is seen with,A,A,True,1.298149824142456,514
+Injury to which of the following vessels is least likely to result in significant damage:,C,D,False,1.4078168869018555,459
+"In a 5-year-old child with mandibular fracture, on a follow up recall after 2 months, what should be done to check the bone healing:",D,D,True,1.350804090499878,581
+Ciliocytophthoria caused by,C,A,False,1.3332834243774414,449
+"A 50 years old female on junk food diet presented with point hemorrhages in scalp, bleeding in joints and erythemataous lesions in the skin. X-ray of knee joint was suggestive of hemahrosis. Problem lies with:",A,D,False,1.3676810264587402,617
+"In a 60 yr old hypertensive male with renal failure, renal biopsy shows onion skin appearance. The most likely diagnosis is",C,D,False,1.3782761096954346,527
+A 50 year old tall thin smoker presents with dyspnoea and palpitations. ECG was done. Diagnosis:,B,A,False,1.412627935409546,543
+The radiographic view of choice for diagnosing horizontally favorable and unfavorable # is:,C,C,True,1.3823978900909424,606
+The resolving power of a microscope depends upon all of the following except:,C,C,True,1.3667871952056885,515
+"During diagnostic laparoscopy for undescended testis, there are absent testicular vessels. What should be done next?",C,C,True,1.3534939289093018,556
+LA deposited in Inferior alveolar nerve block at,C,D,False,1.3423502445220947,493
+"In extraction, best time to administer analgesics is:",A,A,True,1.403083086013794,515
+Morris retractor is most commonly used to retract,A,B,False,1.3459787368774414,491
+Which drug is not given in Wilson disease?,B,B,True,1.4177780151367188,599
+Most used selective medium for streptococcus rnutans is,B,B,True,1.3786792755126953,580
+Midface is defined as the portion between:,B,B,True,1.3616859912872314,418
+Direct inter dental wiring is also known as:,B,A,False,1.3311729431152344,507
+On biopsy report of CGCG on the basis of histologically & morphological similarities differential diagnosis is made between:,B,A,False,1.3580470085144043,552
+Best fluid for factor VIII replacement is:,B,B,True,1.3794496059417725,493
+Best way to monitor perfusion of free flap:,C,B,False,1.2487413883209229,426
+"There is a swelling in a patient with respect to maxillary LI region, since last 48 hours, the swelling is hot & palpable & rebounds on pressure, the treatment of choice is",A,A,True,1.3182449340820312,525
+A boy is suffering from acute pyelonephritis. The most specific investigation is,A,A,True,1.350978136062622,503
+Which of the following has a male:female ratio of 1:1?,C,A,False,1.3385300636291504,515
+Commonest cause of TMJ ankylosis is,A,A,True,1.3333096504211426,475
+A 3-year-old patient reports of painless progressive bilateral facial swellings. The tentative diagnosis is,A,A,True,1.3995163440704346,545
+A Iaday 35 years old lactating mother Presented with a Painful breast lump. Most appropriate initial investigation should be:,B,B,True,1.3489952087402344,410
+A new marker for mantle cell lymphoma especially useful in Cyclin DI negative cases is:,A,A,True,1.3004984855651855,527
+Koebner phenomenon is seen in,D,D,True,1.3498024940490723,467
+"Fracture of mandible having mandibular height 8 mm, line of treatment:",C,A,False,1.35565185546875,590
+"A young healthy male patient presented with abdominal pain and history of altered bowel habits from the last 6 months. On CT examination, there was dilated distal pa of ileum, thickened ileocecal junction with thickened cecum with presence of sacculations on the antimesenteric border. The vascularity of adjoining mesentery is also increased and there is surrounding mesentery fat. Which of the following is not a differential diagnosis?",D,A,False,1.386993169784546,583
+All of the following are signs of respiratory insufficiency except:,D,B,False,1.2854807376861572,520
+Eutectic mixture of 2.5% lignocaine and 2.5% prilocaine is used for,D,A,False,1.3591508865356445,603
+Primordial cyst develops,A,A,True,1.3011269569396973,533
+What is seen in syndrome X?,A,A,True,1.3294599056243896,539
+Which combination forms day care anesthesia,A,A,True,1.3435909748077393,492
+Presence of glucose in urine indicates:,C,C,True,1.4049623012542725,523
+What among the following is the use of this?,B,C,False,1.3325212001800537,561
+The common complication of the local anesthetic prilocaine is:,C,C,True,1.3885290622711182,573
+Risk factors for Coronary artery disease are all except,D,D,True,1.3172650337219238,517
+"In esophageal varices bleeding, which of the following is not used?",C,A,False,1.300208568572998,515
+Site specificity is seen in:,B,B,True,1.3254456520080566,520
+Which of the following are seen in ectodermal dysplasia?,D,C,False,1.3700544834136963,544
+A 60-year-old has got severe bulla and target lesion which erythema around halo and genital lesions:,A,A,True,1.3480916023254395,548
+A patient comes to ER with headache describing it as worst headache in his life. What is the next step?,A,A,True,0.8822009563446045,497
+Epstein pearls are:,A,A,True,1.369248628616333,563
+Marathon runner had pain in anteromedial tibia on regular walking/jogging for long hours. X ray is normal. Doctor orders a bone scan. What may be the probable diagnosis,B,A,False,1.3121070861816406,532
+Radiographic finding in Pindborg tumour is,C,B,False,1.2669403553009033,494
+Risk of endocarditis is more in all   in all of the following lesions except:,D,D,True,1.3330159187316895,529
+Which is the most common site for fracture in zygomatic arch fracture?,C,B,False,1.38899564743042,485
+"Following bilateral mandibular fracture in the canine region, the following muscles will tend to pull the mandible back:",A,A,True,1.3858253955841064,474
+The anemia associated with leukemia,C,A,False,1.3510749340057373,530
+What will be treatment plan for a parasymphysial fracture in a 55 year old man.,B,A,False,1.321765422821045,519
+CPR should have a ratio of chest compression to mouth breathing of:,B,C,False,1.3273708820343018,434
+Anthracis causes which pulmonary manifestations-,B,B,True,1.3951847553253174,539
+All of the following are typically associated with the loss of 40% of the circulating blood volume except,C,D,False,1.3354823589324951,532
+Disappearance of nuclear chromatin is called as,B,A,False,1.3339152336120605,470
+Judet view of X-ray is for:,D,D,True,1.3236932754516602,498
+Prostaglandins are synthesized from:,C,C,True,1.3613245487213135,550
+Dentigerous cyst is likely to cause which neoplasia,A,A,True,1.4271008968353271,565
+V) hich of the following can change the gene expression by methylation and acetylation without affecting the content of the gene?,A,A,True,1.3299455642700195,486
+A diffuse spreading inflammatory lesion is due to bacterial enzyme,B,C,False,1.4128990173339844,595
+Which is not seen in neuroimaging of patient of tuberous sclerosis?,B,A,False,1.3470070362091064,581
+Which of the following is expected when a tooth is lost?,D,D,True,1.3486552238464355,487
+"About intraoperative histopathological analysis, all are true except:",A,A,True,1.3716075420379639,536
+"A 23 years old boy, a badminton player, sustained injury of left ankle. He was immobilized for 3 months, the cast was removed and patient was able to walk normally. Later he complained of pain and swelling in the left calf, left ankle and foot. His mother massaged him for 30 minutes. After a while he developed acute onset of breathlessness and was brought to emergency and died. Most likely cause of death is:",A,A,True,1.3920063972473145,626
+Petechial hemorrhage is seen in,D,D,True,1.4306378364562988,499
+Mandibular fracture managed by adapting mini plates is a type of,B,A,False,1.343099594116211,549
+What is the best management of the case shown?,D,B,False,1.2932052612304688,563
+"Bifid tongue, a congenital anomaly occurs due to non-fusion of:",C,A,False,1.3355655670166016,455
+"Hypereosinophilic syndrome is a disease characterized by elevated eosinophil count in the blood for at least 6 months, without any recognizable cause, with involve-ment of either hea, nervous system or bone marrow. What should be the eosinophil count for diagnosis?",C,A,False,1.3448729515075684,501
+Russell's bodies are found in:,C,A,False,1.340461254119873,551
+Serum sickness syndrome is:,C,A,False,1.2961368560791016,498
+Which of the following is not removed in radical neck dissection,B,A,False,1.318488359451294,512
+"A 68 years old man had severe chest pain. The patient died on the way to the hospital. In the hospital, at autopsy tetrazolium chloride staining of the hea was done. What will be the color of ble myocardium?",A,B,False,1.3073246479034424,546
+Christmas disease is due to deficiency of,D,A,False,1.3631937503814697,489
+The given below device is/used for:,A,A,True,1.3190460205078125,570
+"In Ludwig's angina, the 1st step when patient report to emergency room",C,A,False,1.3690707683563232,497
+Syndrome which is characterized by 2X chromosomes and 1Y chromosome is:,A,C,False,1.3860294818878174,554
+Histopathologically rosettes are seen in,A,A,True,1.3712785243988037,583
+"A 20 years old female came with complaints of headache, vomiting and decrease in movement of right leg. In the past, she had episodes of violent and aggressive behaviour and abdominal pain. Which of the following is the most probable diagnosis?",D,D,True,1.444350242614746,620
+Which of the following is not associated with gingival Lesions?,B,B,True,1.3963086605072021,515
+"A 60 years old man presents to the emergency depament with history of A, in unconscious state and gains consciousness in between but again becomes unconscious. The time when he becomes conscious is called as:",A,A,True,1.3199338912963867,503
+"On radiograph of upper lateral incisor a periapical lesion is found after 2 years following RCT curretage was done and histopathology showed presence of apical cyst. Lesion continued to enlarge even after surgery, What is the reason for this.",A,C,False,1.3561904430389404,583
+KLK4 gene mutation is associated with which type of amelogenesis imperfecta?,B,B,True,1.342818021774292,523
+"Dinesh, a 24-year-old male, complains of loose teeth
+in a single quadrant. His radiograph shows irregular bone loss and histopathology reveals eosinophils and histiocytes. The most probable diagnosis is:",A,C,False,1.319978952407837,487
+Perception of taste even in absence of stimuli is known as,D,D,True,1.2886340618133545,501
+The anesthetic drug injected for paravertebral block is least likely to diffuse to,B,A,False,1.3657121658325195,548
+"To assure surgical hemostasis, the best blood product
+administered	preoperatively to	patients	with	classic
+hemophilia is:",B,B,True,1.2641422748565674,459
+Percentage of surgical site infection in patients with clean contaminated wound after prophylactic antibiotic?,B,A,False,1.3256165981292725,513
+Direct impact on the bone will produce a:,A,A,True,1.3310129642486572,524
+Hodgkin's disease is considered to be:,D,D,True,1.3400583267211914,424
+"A Young Male complained of intermittent pain , swelling and discharge at the base of spine. He also had episodes of fever and repeated abscesses that had burst spontaneously , in recent past. By occupation , he is a jeep driver. On physical examination, diagnosis of pilonidal sinus was made. Which flap-based procedure is used for pilonidal sinus surgery?",A,A,True,1.3490049839019775,608
+Physical sign of severe aortic stenosis is:,B,C,False,1.372957706451416,475
+Nasal antrostomy usually done from through,D,A,False,1.3537051677703857,562
+"After a surgery, the surgeon asked the intern to remove the Foley's catheter but he could not do it. The surgeon himself tried to remove the Foley's catheter but he was unsuccessful. What should be done next?",D,A,False,1.3853120803833008,611
+True about ythT cells:,B,B,True,1.3565340042114258,559
+A patient with Hb 7 was to be transfused with 2 packs of blood. The first pack was transfused in 2 hours after which vitals were stable and then the transfusion of the next pack was staed . But suddenly the patient develops breathlessness and hypeension. What can be the cause of this sudden reaction?,C,C,True,1.3732221126556396,567
+"A 50 years old male presented with frontal bossing, enlarged nasal bone, enlarged jaw and spade like fingers. Which of the following test will you do for diagnosis?",A,A,True,1.369696855545044,586
+Which of the following inducing agent has analgesic property?,A,A,True,1.360691785812378,531
+"A patient of hypeension on Metoprolol, Verapamil was given. This is will result in?",B,B,True,1.3218498229980469,493
+A patient with history of frequent abortions and pain in calf muscles from past 4 years is due to deficiency of,B,B,True,1.3244571685791016,519
+Which of the following is true regarding Galeazzi's fracture dislocation?,D,A,False,1.3936970233917236,527
+"A Female patient was brought to the ER with altered sensorium. On examination BP was 88/67mm with a pulse of 60/min. Rectal temperature was 34 Celsius. There was associated history of constipation, dry skin and menorrhagia. What is the diagnosis?",A,A,True,1.4015717506408691,591
+A patient presents to the emergency with altered sensorium. All of these tests should be done except:,C,A,False,1.3264796733856201,567
+"Under polarised light, the congo red stained amyloid shows-",C,C,True,1.3134377002716064,462
+Haglund's deformity is seen in which joint?,D,C,False,1.372218370437622,554
+Naive T cell get activated by:,B,B,True,1.1964530944824219,448
+"A patient presented with headache and fever. His investigations revealed hemoglobin of 16g/dl, TLC of 21,000/ uL, platelet count of 3,75,000. His DLC showed Neutrophils (25%), Lymphocytes (20%), Metamyelocytes and myelocytes 40%and eosinophils5%. Which of the following is the next best investigation in this patient?",C,D,False,1.3151795864105225,499
+With reference to Bacteroides fragilis the following statements are true except:,D,C,False,1.3608803749084473,633
+After Le-Fort 1 osteotomy the blood supply of maxilla is maintained by,D,A,False,1.350085735321045,601
+"The proximal segment of mandibular angle fracture
+usually displaced in which direction",A,A,True,1.2797272205352783,415
+"The cyst which is found within the bone at the junction of the globular process, the Lateral nasal process & maxillary process is:",B,B,True,1.3473517894744873,570
+Not seen in classical triad of megaloblastic anemia,B,A,False,1.3196523189544678,558
+Cleft lip is treated by all of the following methods except:,A,A,True,1.3305854797363281,584
+Which of the following does not cause head and neck squamous cell carcinoma,D,D,True,1.3988077640533447,544
+Which metabolic condition has phosphaturia and osteomalacia?,A,D,False,1.301863431930542,532
+How will you check the functioning of an ICD tube?,B,C,False,1.2975308895111084,594
+A smoker presents with recent onset breathlessness and ECG was done. The diagnosis is?,D,A,False,1.2891218662261963,496
+During mandibular nerve block which nerve also gets damaged?,B,B,True,1.2894783020019531,469
+Which of the following is most associated with respiratory alkalosis:-,A,A,True,1.3021371364593506,531
+High velocity gunshot injury with periosteal denudation & comminuted fracture is best treated as,D,A,False,1.3075146675109863,502
+Which of the following finding are there in iron deficiency anemia?,A,A,True,1.2985680103302002,458
+The host tissue response in acute inflammation is all except:,C,B,False,1.2994637489318848,556
+"An empty cavity in the mandible with no lining is
+mostly likely to be:",B,A,False,1.2965407371520996,544
+Which of the following is true about supracondvlar fracture of humerus?,C,A,False,1.3264198303222656,593
+Which heart sound indicates stiffness of ventricular wall,D,C,False,1.3210206031799316,505
+If the cycle stas with ' a ' wave of jvp . Arrange the following in order-,D,A,False,1.2819163799285889,494
+Window period for thrombolysis in a stroke patient is:,D,A,False,1.2812397480010986,480
+Main disadvantage of dry heat used for sterilization is that:,A,D,False,1.3520841598510742,563
+Reed Sternberg cells in Hodgkin's lymphoma are derived from,D,D,True,1.2407424449920654,444
+Half-life of TGF -B (beta) is,D,C,False,1.268937110900879,490
+"A 50-year-old male presented with complains of ptosis, difficulty in chewing and occasional difficulty in swallowing. There is no history of diplopia or visual loss. On examination, there is symmetric ptosis and mild restriction of extraocular muscle movement with finger abduction test 60deg. Nerve conduction study shows decremental response in orbicularis only. ERG revealed a myopathic pattern. Anti-AchR radioimmunoassay was negative. The most probable diagnosis would be:",B,D,False,1.3357493877410889,652
+A 30 year old patient has right upper limb BP of 180/95 mm Hg and left upper limb BP of 130/90 mm Hg. He also has early diastolic murmur in right 2 intercostal space. Which of the following would be LEAST likely associated with these findings?,B,A,False,1.2850418090820312,484
+"A patient presents to the ER after a A with multiple rib injuries. He is conscious, speaking single words. RR = 40/min, BP= 90/40 mmHg. What is the next immediate step in management?",D,B,False,1.3081345558166504,538
+Which of the following is used for laboratory diagnosis of alcoholic hepatitis?,B,D,False,1.3245384693145752,490
+Bacteria associated with caries are able to cause the same due to:,A,A,True,1.0868330001831055,512
+In a patient with Hepatitis B infection. Which one of the markers will be increased?,D,A,False,1.33363676071167,544
+Sunlight is one of the etiological causes of:,C,B,False,1.3100619316101074,528
+Which pa of 2nd metatarsal is involved in the March fracture?,B,B,True,1.3308844566345215,552
+All of the following clinical features are seen in Zika fever except:,B,D,False,1.2523572444915771,461
+Urobilinogen levels in obstructed jaundice due to gallstones will be:,D,B,False,1.262678623199463,469
+Which is not true about phenotype?,C,C,True,1.293212890625,522
+Both bone and disc spaces are destroyed in-,A,D,False,1.2584333419799805,461
+The following drug is not useful for MRSA?,A,C,False,1.3314435482025146,523
+Apoptosis is suggestive of:,B,A,False,1.2861902713775635,478
+Frey's syndrome results from surgery of the,B,A,False,1.2922604084014893,450
+In a platelet poor plasma sample calcium and tissue thromboplastin is added. This is used to assess which of the following pathway?,A,A,True,1.3520245552062988,544
+"A chronic alcoholic patient came to emergency with severe pain in epigastrium and multiple episodes of vomiting. On examination, guarding was present in upper epigastrium. Chest X-ray was normal. What is the next best step?",B,A,False,1.2928626537322998,520
+"In oral and maxillofacial surgery, 'danger space' is known as",D,B,False,1.287057638168335,485
+Which of the following is most common location of intracranial neurocysticercoses:,A,A,True,1.3659183979034424,620
+The most appropriate method to differentiate between a dentigerous cyst and an ameloblastoma is through:,C,A,False,1.3512156009674072,544
+Asymmetric widening of the periodontal Ligament around two or more teeth is seen in,B,A,False,1.3270025253295898,495
+Helmet cells are characteristic of anemia of,A,C,False,1.3332679271697998,534
+"One unit of PRBC raises HCT by: (In exam instead of HCT, they wrote HCV, which we assume to be a spelling error):",C,A,False,1.2712392807006836,464
+Gillis approach is used in,C,C,True,1.2688910961151123,517
+Tumor represented T3N2M0 is classified as :,D,B,False,1.405998945236206,580
+Infective endocarditis is most commonly seen in:,B,A,False,1.3792774677276611,494
+Epidural hematoma is caused by,A,A,True,1.3812119960784912,556
+"With respect to peripheral vascular disease, all of the following statements are true except:",D,B,False,1.448500394821167,598
+"A neuralgia with trigger zones in the oropharynx and pain
+in the ear pharynx, nasopharynx, tonsils and posterior tongue is most likely:",C,A,False,1.4098584651947021,554
+Ossifying fibroma manifests as:,B,A,False,1.397704839706421,548
+"A 40 year woman was brought to the casualty 8 hours after sustaining burns on the abdomen, both the limbs and back. What will be the best formula to calculate amount of fluid to be replenished?",A,A,True,1.4729423522949219,573
+Most common functional tumors of endocrine pancreas?,B,B,True,1.3761324882507324,510
+The most common odontogenic tumour which occurs in relation to an unerupted tooth in the anterior maxilla:,A,A,True,1.4058380126953125,581
+Brachytherapy is:,C,C,True,1.3938310146331787,492
+Chronic hyperpLastic pulpitis is,C,C,True,1.4304897785186768,573
+Which of the following drugs is not used in management of rheumatoid ahritis?,C,C,True,1.3970952033996582,528
+Biopsy of a clinically suspicious lesion is negative. The most appropriate treatment is,B,D,False,1.3811120986938477,498
+"For primary herpes simplex, the diagnosis is made by which gene",D,A,False,1.3279130458831787,502
+On massive blood transfusion the following complication occurs-,C,A,False,1.4232466220855713,576
+Which process shows phases of acute inflammation-,D,B,False,1.457549810409546,504
+Investigation of choice to rule out biliary atresia in a 2-month-old child is:,A,C,False,1.411808967590332,554
+Which of the following is not an indicator of difficult mask ventilation?,D,D,True,1.3978791236877441,600
+"A 6 year old patient with anemia, on electrophoresis shows HbF of 90% and HbA2 of 3%. Which of the following will be seen on peripheral smear",D,A,False,1.3943467140197754,523
+Which of the following is not a feature of infective endocarditis.,C,D,False,1.3905348777770996,504
+"Patient presented with PSVT after carotid management, BP is 70/30 mm/H & vagal maneuver failed and refractory to adenosine given. what will be the next step-",A,A,True,1.4270336627960205,527
+Brittle bone syndrome is caused by,A,A,True,1.402742624282837,411
+An adult patient sustained a subcondylar fracture on the left side. Clinically it is seen that there is :,D,A,False,1.4294533729553223,570
+A 40 years old patient came with complaints of spikes of fever and difficulty in breathing. Transesophageal ECHO found out the vegetations in the hea. The culture was positive for Burkholderia cepacia. Drug of choice for Burkholderia cepacia pneumonia is:,D,A,False,1.4792201519012451,624
+Hand to knee gait in polio is due to involvement of which muscle?,C,A,False,1.4885966777801514,606
+Urine analysis of a patient with hematuria and hypercalciuria is most likely to reveal;,A,A,True,1.3801908493041992,486
+"A patient presents to the ER after a A with multiple rib injuries. He is conscious, speaking single words.RR= 40/ minute, BP= 90/40mm Hg. What is the next immediate step in management?",D,B,False,1.4053285121917725,513
+False about Bone marrow biopsy,D,C,False,1.4092252254486084,586
+Hypeensive hemorrhage is most commonly seen in:,A,A,True,1.40720534324646,568
+"When Isoflurane is used as a general anesthetic agent, what is the maximum dose of adrenaline that can be given:",B,A,False,1.434802770614624,575
+Adrenocorticosteroids in excess may cause:,A,A,True,1.4184749126434326,472
+Chances of recurrence of multicystic ameloblastoma after surgical enucleation is:,C,A,False,1.350682258605957,444
+In long surgical procedure intubation method is,A,A,True,1.3873813152313232,492
+All of the following are criteria for admission in upper GI bleed except:,B,A,False,1.4144830703735352,574
+Strength of collagen is due to:,D,D,True,1.4173150062561035,423
+GNAS-1 gene mutation is associated with,A,A,True,1.3897910118103027,426
+Which of these is the Renal feed for CKD patients?,C,B,False,1.3761353492736816,585
+Hemophilics show:,D,D,True,1.3476598262786865,386
+Tourniquet test is used in daily follow-up of patients with:,B,A,False,1.3165781497955322,446
+A patient showing inability to close the right corner of the mouth is most probably suffering from:,B,C,False,1.4421889781951904,541
+Which of the following disease cause damage of vertebral body & intervertebral space?,A,B,False,1.4126348495483398,506
+All of the following are features of glucocoicoid deficiency except:,B,A,False,1.408900499343872,534
+"""Strawberry Tongue"" is  associated with",C,A,False,1.3617825508117676,589
+"In a polytrauma patient, chest tube insertion caused sudden drainage of 1,500 mL blood from left side. Oxygen saturation is 92%. What should be the immediate next step:",D,A,False,1.2755424976348877,360
+Drug of choice in acute bacterial meningitis,B,B,True,1.4144840240478516,569
+IgA deposits in dermal papilla are characteristically seen in?,A,A,True,1.3543837070465088,540
+"Microscopic examination of chromosomes shape, size and arrangement is known as",B,A,False,1.3163740634918213,494
+Chimerism phenomenon is associated with which of the following-,D,D,True,1.312955379486084,499
+In a middle aged female swelling that presents in the midline of neck is most likely originating from:,C,A,False,1.29506254196167,548
+Which of the following is true about intracellular iron homeostasis in iron deficiency anemia?,A,A,True,1.351421594619751,489
+Which of the following is anaplastic lymphoma kinase (ALK) positive neoplasm?,D,D,True,1.2971808910369873,445
+Port wine stains are seen in:,B,A,False,1.364330768585205,545
+Which of the following is a reactive lesion of the gingiva that may demonstrate bone radiographically and often even microscopically?,B,B,True,1.3424341678619385,534
+Oncotype Dx test is done to for the following in breast cancer:,A,C,False,1.3531370162963867,591
+A young patient has been admitted with A and had massive hemorrhage. He needs to be transfused with large amounts of fluids. Which IV cannula is preferred?,B,C,False,1.3276374340057373,559
+Most potent topical anesthestic is,D,B,False,1.3475518226623535,486
+Following are functions of prostaglandins except:,D,C,False,1.3284518718719482,574
+A radiograph of the mandibular posteriors in a patient reveals radiopacity above the apices of right 1st molar. No restoration or cavity present. There is no pain or swelling and the pulp is vital. The diagnosis is:,B,A,False,1.3655385971069336,579
+Highly vascular tumor of brain and spinal cord in adults:,C,C,True,1.366919994354248,540
+Cysts associated with vital teeth are:,A,C,False,1.3409464359283447,539
+Tumor marker for seminoma:,A,A,True,1.3074824810028076,509
+All of the following statements about acute leukemia in children are true except,A,D,False,1.3470478057861328,578
+Deep y descent in JVP is seen in all except:-,A,B,False,1.3252532482147217,423
+"When soft palate is paralysed, which is not seen?",A,C,False,1.2966954708099365,444
+Sentinel lymph node biopsy is most useful for:,C,?,False,1.3279211521148682,516
+Which of the following is the most commonly used drug for management of community acquired pneumonia?,C,C,True,1.3993213176727295,514
+Abnormality in elastin protein can lead to all except ?,A,A,True,1.3901379108428955,481
+"A 40 years old female is diagnosed to have epilepsy and is staed phenytoin and valproate. Four weeks later, she developed a diffuse rash all over her body, which gradually disappeared on stopping both the drugs. In how many weeks, will the rash reappear when she is re-challenged with phenytoin and valproate?",A,A,True,1.3505077362060547,581
+What is the most common tumor of mediastinum?,A,B,False,1.2937865257263184,421
+Removal of veebral disc can be done by all these approaches except:,C,A,False,1.4146037101745605,517
+Drug not used in H. pylori?,C,D,False,1.4079465866088867,522
+Which of the following is not a cause of clubfoot in newborns?,C,C,True,1.3340895175933838,525
+Which of the following clinical features of demyelinating myelopathy least likely suggests a progression to multiple sclerosis?,C,C,True,1.4183638095855713,578
+"According to 2010 ACLS guidelines, all of the following are true except",B,B,True,1.3734452724456787,505
+Jersey finger is caused by rupture of:,B,B,True,1.3454005718231201,499
+Most common tumour of parotid gland is:,A,A,True,1.3325231075286865,452
+causes of thyroid storm,D,A,False,1.3271474838256836,499
+Lidocaine is used more commonly in dentistry because lidocaine :,C,A,False,1.4039099216461182,513
+A condition of the mouth which increases the caries activity in the oral cavity is,A,A,True,1.3422467708587646,525
+"45-year-old presents with persistent productive cough and clubbing. On auscultation, wheeze and crackles are present. Which is the most specific investigation to confirm the diagnosis?",A,D,False,1.372466802597046,480
+A hemophilia B patient needs a major surgery. Factor replacement should be done at what rate:,B,B,True,1.403846025466919,528
+All of the following are true about severe malaria except:,D,A,False,1.388197898864746,590
+A driver wearing seat belt applied brake suddenly to avoid a collision. Which of the following body pas is most likely to be injured?,C,A,False,1.3946692943572998,565
+Bite cells are seen in,A,B,False,1.376063346862793,468
+A patient on Anti - tubercular therapy develops tingling sensation in the limbs. Which of the following when substituted can result in improvement of symptoms?,B,A,False,1.35074782371521,496
+Marker appearing last in MI,A,A,True,1.385627031326294,570
+Swelling and redness of the orifices of minor salivary glands of the palate occurs in:,A,A,True,1.351431131362915,484
+The first sensation to be lost following administration of local anesthetic is,B,B,True,1.3853600025177002,552
+"In a patient with implanted cardiac pacemaker (defibrillator),which of the following investigation is useful to know the position of the misplaced implant ?.",A,A,True,1.3880987167358398,552
+What is the effective management of a dengue patient with warning signs without shock and haemorrhage-,C,C,True,1.4054532051086426,482
+Most impoant but nonspecific regulator of iron metabolism is:,A,A,True,1.3514952659606934,420
+Treatment of solitary langerhans histiocytoma of mandible is by,A,A,True,1.4648067951202393,557
+What processing should be done of the blood before transfusion to reduce chances of febrile non-hemolytic transfusion reaction (FNHTR)?,C,A,False,1.4031744003295898,527
+Peripheral eosinophila with renal failure is least likely to be possible in:,D,A,False,1.3952066898345947,564
+Translocation seen in Ewing's sarcoma is:,B,A,False,1.3611409664154053,497
+A 60 years old male with alcoholic liver disease presented to emergency with a history of hematemesis. Which of the following is false regarding his management',C,C,True,1.400360107421875,482
+Most common site for melanotic neuroectodermal tumour of infancy is (MNTI):,A,A,True,1.3374009132385254,447
+Mantle cell Carcinoma shows,D,B,False,1.3898005485534668,559
+"A 27 years old pregnant lady comes with severe jaundice and altered sensorium. On examination, the patient is deeply icteric, not responding to commands and pelvic sonogram reveals intrauterine fetal death. Serum bilirubin levels are 28.8 mg/dL (direct = 18.6 mg/dL), AST levels are 1063 and ALT levels are 1191. The viral markers are as follows. What is the likely diagnosis?Anti-HAV IgGReactiveAnti-HAV IgMNonreactiveHbSAgNon reactiveAnti-HbSAgNonreactiveAnti-HBc IgMNonreactiveAnti-HBc IgGReactiveAnti-HCV IgGNonreactiveAnti-HEV IgMReactiveAnti-HEV IgGNon reactive",D,A,False,1.3751704692840576,548
+"In a patient of liver disease, the possible complication during extraction is:",C,B,False,1.3885526657104492,555
+Vascular event of inflammation in order-a) delayed prolonged- leukocytes mediated injuryb) immediate transient - mast cell activation lead to release of histamine bradykininc) immediate prolonged- direct endothelial injury by bacterial toxind) Somewhat delayed prolonged- sun exposure /heat stroke lead to mild endothelial injury,D,A,False,1.4012818336486816,582
+"A 4 yr old girl child suffering from vomiting, cerebral edema and is being treated for viral infection from past 5 days. Liver biopsy in this patient may show",D,A,False,1.4552233219146729,554
+"A patient who is a known case of CKD has complaints of vomiting. His ABG repos are as follows: pH - 7.40, pCO2 - 40, HCO3 - 25. Na -145, chloride-100.",D,B,False,1.3998181819915771,580
+"Patient had a A and put on mechanical ventilation, he is opening his eyes on verbal command, Moves all his 4 limbs spontaneously. What will be his GCS score?",A,B,False,1.47218656539917,527
+Earliest transient change following tissue injury,A,A,True,1.3786742687225342,545
+"Asymptomatic hep B is common in 2-3% normal population, but there is increased risk of transmission into hepatocellular carcinoma. Why?",D,A,False,1.332911491394043,489
+"Which of the following is carcinoma of the skin, spreads by local invasion and has no tendency to metastasise?",B,B,True,1.421647548675537,493
+Chronic alcoholic comes with pain epigastrium and recurrent vomiting. On examination guarding in upper epigastrium. Chest X-ray normal. What to do next?,B,A,False,1.4355065822601318,593
+Submandibular duct is exposed via intraoral approach by incising the:,B,A,False,1.4264180660247803,572
+During cryosurgery,C,A,False,1.2839276790618896,500
+Reticulocytosis is seen in:,A,A,True,1.369445562362671,526
+Post-auricular ecchymosis in cases of fracture of the base of the skull is called:,A,A,True,1.3163652420043945,499
+"Transverse symphyseal fracture of mandible can be managed by all of the following, except",D,A,False,1.383622646331787,520
+Most common cause of interochanteric fracture in old is -,A,A,True,1.38889741897583,594
+For wound healing which mineral is helpful?,C,D,False,1.3613803386688232,459
+Which of the following drugs is used for treatment of cancer associated thromboembolism?,A,B,False,1.328676462173462,498
+Ameloblastoma histologically resembles:,A,A,True,1.3861849308013916,537
+ECG shows a mean axis of 90 degrees. In which of the following would be present the maximum voltage of R wave?,C,A,False,1.327474594116211,528
+Which is false about apoptosis?,C,A,False,1.3189163208007812,473
+"The most common intraoral location for a pigmented
+nevi is the",A,B,False,1.3468945026397705,555
+NN hick of the following tractions is not used in lower limb?,C,A,False,1.3586933612823486,515
+Serum glutamic oxaloacetic transaminase is increased in:,C,C,True,1.3703293800354004,501
+"Peau d'Orange of breast is due to:September 2005, 2010, March 2007",B,A,False,1.4835619926452637,595
+Infection of masticatory space is usually associated with,B,B,True,1.3252816200256348,548
+"Following road traffic accident, a patient with vague abdominal pain was immediately taken to the operation theatre for emergency laparotomy. On examination, a large, contained, stable, non-pulsatile retroperitoneal hematoma was found on the right side. One-shot IVU shows a barely discernible nephrogram on the right side and prompt uptake and excretion on the left side. What should be the next step to be done?",B,B,True,1.360741376876831,596
+"In mandibular angle fracture, which is most appropriate treatment?",A,A,True,1.333686351776123,524
+"An elderly, hypeensive patient presented with sudden onset headache, vomiting, neck rigidity without focal neurological deficit. Diagnosis:",A,A,True,1.3815677165985107,545
+The organism which is involved in anaerobic infections of head and neck region is,D,C,False,1.3785533905029297,553
+Initial clicking of TMJ while opening is due to,B,A,False,1.3505632877349854,547
+"A 5-year old boy passed 18 loose stools in last 24 hours
+and vomited twice in last 4 hours. He is irritable but drinking fluids. The optional therapy for this child is:",B,A,False,1.3453986644744873,559
+Delayed eruption of at least part of the dentition is a recognized feature of all of the following except:,B,A,False,1.3497247695922852,506
+"In a 19 years old patient, with a swelling over the left angle of the mandible, temperature of 38°C and negative history of trauma, one should suspect:",B,C,False,1.333700180053711,568
+"In Prothrombin time (PT) estimation, on addition of calcium and thromboplastin to platelet poor plasma. which of the following pathway is activated?",A,C,False,1.3270647525787354,510
+Treatment for KOT is:,C,A,False,1.337350845336914,546
+"In case of nodal metastasis, which is not seen on CT scan",A,D,False,1.3288004398345947,500
+Which of the following is the complication of massive blood transfusion?,B,A,False,1.327251672744751,495
+Which among the following shows pseudo-epitheliomatous hyperplasia?,D,D,True,1.3153822422027588,549
+Recently approved drug by FDA for treatment of Lennox-Gestaut syndrome:,D,D,True,1.3291659355163574,503
+Not true about fresh frozen plasma,D,A,False,1.2572038173675537,481
+Lefort 1 osteotomy essentially involves osteotomy of how many bones?,D,B,False,1.3567924499511719,571
+Which of the heart valve is most likely to be involved by Infective endocarditis following a septic abortion:,B,B,True,1.2674353122711182,408
+"On loading the fracture mandible posterior to the site of fracture, which of the following is present:",B,A,False,1.370882511138916,593
+"After Dengue hemorrhagic shock, what is the criteria for the patient to be discharged from the hospital?",A,C,False,1.2893693447113037,484
+Coxsackie virus causes,C,C,True,1.3066895008087158,532
+A lady presents with complaints of abdominla pain. CECT shows bilateral papillary necrosis. Which of the following test shall not be done to investigate the cause of her papillary necrosis?,A,A,True,1.2970280647277832,526
+Which of the following is not a component of quick SOFA (qSOFA) scoring?,A,A,True,1.331723928451538,541
+Shy Drager syndrome is:,D,D,True,1.376018762588501,533
+Medlar bodies are found in -,B,C,False,1.3288331031799316,473
+Transudate is characterized by:,B,B,True,1.350001335144043,521
+Nitrous oxide alone is not used as a G.A agent because of,A,A,True,1.347602367401123,436
+A 25 years old lady with a history of fever for 1 month presents with headache and ataxia.Brain imaging shows dilated ventricles and significant basal exudates. Which of the following will be the most likely CSF finding?,A,A,True,1.3665833473205566,551
+Sickle cell mutation is,A,A,True,0.8769998550415039,485
+Proteins elevated in the plasma in myocardial infarction,A,A,True,1.3428363800048828,525
+Acetone free methyl alcohol is present in Leishmann's stain for:,D,A,False,1.2877006530761719,514
+"In depressed zygomatic arch fracture, difficulty in opening the mouth is caused by impingement of:",D,A,False,1.4111723899841309,552
+Crescendo angina is,C,C,True,1.3196094036102295,519
+"About giant cell tumor, all are true except:",C,D,False,1.3308804035186768,515
+"A 6 year old patient with extra cusp on maxillary central incisor is associated with all, except",D,A,False,1.3537843227386475,586
+Coarse tremors of tongue is seen in all except:,C,D,False,1.3375897407531738,509
+Maximum permissible dose of Articaine in a healthy patient is,D,A,False,1.3418231010437012,471
+"A 2 years old child suffers flame burns involving face, bilateral upper limbs and front of chest and abdomen. What is the body surface area involved?",A,B,False,1.3408262729644775,558
+The probable reasons for a high incidence of dental caries in the teenage population relates most directly to:,B,D,False,1.3846790790557861,593
+"In a 30 years old female patient with polyahritis, testing reveals nucleolar pattern of ANA staining. What is the likely course of this patient?",B,B,True,1.3872888088226318,605
+Which of the following is not an autoimmune disorder?,A,A,True,1.3208823204040527,482
+Patient with severe acidosis is treated with,A,A,True,1.3156821727752686,452
+Anodontia affects the growth of:,C,C,True,1.3637440204620361,523
+Facial nerve injury during forceps delivery in labour is due to:,A,C,False,1.3531174659729004,526
+Most characteristic feature of mandibulofacial dysostosis is,B,C,False,1.336366891860962,512
+A 13 year old girl with soft painful swelling on posterior aspect of thigh. Color Doppler showed multiple venous channels without any major arterial feeder. All of the following are liquid embolizing agents except,C,A,False,1.3453729152679443,488
+Which of the following is not a characteristic feature of multiple myeloma?,B,B,True,1.392237663269043,549
+"A patient had a femur fracture for which internal fixation was done. Two days later, the patient developed sudden onset shoness of breath with low-grade fever. What is the likely cause?",B,B,True,1.348512887954712,567
+Treatment of choice in a patient with a staghorn calculus with mild hydronephrosis?,B,A,False,1.308103322982788,486
+Which of the following Slatements is not true?,B,C,False,1.368516445159912,571
+"A 49 years old male with 35 pack years presented with painless mass in left scrotal sac and microscopic hematuria. On laboratory investigation, Alphafetoprotein and lactate dehydrogenase was negative. What is the most probable diagnosis?",C,B,False,1.3198964595794678,429
+Serology profile done for a patient is mentioned below. What is the likely cause of the abnormal findings:HbsAg-Non-reactiveHBV DNA-UndetectableHbeAg-Non-reactiveIgG Anti-HbC-Reactive,B,D,False,1.3527655601501465,478
+"A 22-year-old man presents with diarrhea and intolerance to dairy products, on investigation he was found to have lactase deficiency. Agent least likely to cause lactose intolerance among these is?",D,C,False,1.344703197479248,416
+Which of the following malignancy is least commonly associated with lymphatic spread ?,A,A,True,1.373586893081665,431
+"While extracting a mandibular third molar, it is noted that the distal root is missing. The root tip is most likely in the:",B,D,False,1.309108018875122,559
+"Large anterior fontanelles, open sutures, slanting eyes,
+decreased sexual development, macroglossia and enamel hypoplasia are seen in:",B,A,False,1.3580164909362793,502
+Most difficult maxillary tooth to anaesthetize by infiltration is :,A,B,False,1.3982083797454834,562
+The common site for necrotizing sialometaplasia,C,C,True,1.3695805072784424,579
+45 chromosomes are seen in,A,A,True,1.349898338317871,553
+A 50 year male presented with high BP of 160/100 mm Hg and hea rate of 120/min. CECT is shown below. Which is best management of this condition?,A,A,True,1.398484468460083,572
+Most common site of zygomatic arch fracture is:,B,C,False,1.3676786422729492,517
+Median rhomboid glossitis is due to:,B,A,False,1.3338189125061035,387
+NK cells are effective against viral infected cells only if the cell with infection:,B,A,False,1.3537147045135498,542
+Clinical diagnosis of candidiasis is confirmed by,B,A,False,1.3516521453857422,516
+Submandibular calculus can be removed by:,D,D,True,1.3685996532440186,441
+I.V. diazepam causes following in a patient on dental chair:,B,C,False,1.3572487831115723,462
+"Which is the best incision preferred for diaphragmatic surgery?(AIIMS May 2015, May 2014)",A,D,False,1.3374245166778564,450
+Which of the following is the most common lesion of the mandible?,A,C,False,1.366316795349121,473
+A medical student presented to the ED with protracted vomiting. For this he was given and anti-emetic drug following which he developed abnormal posturing. Which of the following is the most likely drug to be given to the patient?,A,A,True,1.3532977104187012,552
+"A patient complains of loss of visual acuity, deafness and enlargement of maxilla:",A,A,True,1.361102819442749,547
+The genetic mutation seen in the most common type of maturity onset diabetes of young (MOM') is:,B,A,False,1.4046971797943115,518
+Which of the following structure is not removed in radical neck dissection-,C,A,False,1.3866639137268066,552
+"In fracture of atrophic mandible with bone loss, what is the best treatment modality?",A,B,False,1.34808349609375,514
+A Jawan posted in Siachen was brought to the emergency depament with hypothermia. Which is the ideal site to measure his temperature?,B,A,False,1.3116190433502197,449
+"On laboratory investigations in a patient. pH = 7.3, pCO2 = 35 mm Hg. What is the likely acid base imbalance?",B,D,False,1.3451056480407715,519
+"In medically intractable seizures, which of the following modalities of treatment has shown the best seizure-free period?",A,A,True,1.3347594738006592,578
+"Beta 1,3 Glucan test is positive in all except?",C,D,False,1.3033699989318848,469
+"If a patient with Raynaud's disease puts his hand in cold water, the hand appears:",C,D,False,1.3599495887756348,504
+Infection from maxillary first molar drains into,C,A,False,1.3592174053192139,533
+First local anaesthesia to be used clinically was,A,A,True,1.4346153736114502,577
+A 7-year-old child having yellowish discoloured spot of maxillary central incisor. His mother presents a history of injury to deciduous tooth 3 years back with recurrent infections & swelling. The diagnosis is,A,A,True,1.321169137954712,457
+The incision used for treatment of traumatic telecanthus is,A,A,True,1.3744661808013916,529
+Patient giving history of thrombocytopenic purpura reports for extraction. What could be the most common postoperative complication?,B,B,True,1.416109323501587,505
+The radiographic feature of sinusitis includes,D,A,False,1.3283007144927979,473
+Acquired cause of pure red cell aplasia are all except:,C,D,False,1.3555309772491455,546
+A middle-aged female presented with recurrent bloody diarrhea. Colonoscopy reveals multiple geographic ulcers and histopathological examination is shown below. What is the likely diagnosis?,A,B,False,1.334425687789917,509
+Sublingual space is divided from submandibular space by:,A,A,True,1.3574528694152832,445
+The most characteristic feature of basal cell carcinoma is:,C,A,False,1.3750276565551758,589
+All the following are seen in thyrotoxicosis except,C,C,True,1.352644443511963,553
+Multiple punched out lesions are seen in:,D,A,False,1.339717149734497,480
+A 45 year old woman has a nodule in the neck which moves during swallowing. The nodule most probably is attached to:,A,?,False,1.3229660987854004,511
+Intake of unsaturated fatty acid is associated with:,B,B,True,1.2875900268554688,479
+"A 14 year old boy has delayed eruption of the
+second molar. Radiography shows a dentigerous cyst surrounding the crown of the tooth. The treatment of choice is:",D,C,False,1.389542579650879,483
+MHC antigens are absent on?,B,A,False,1.328249216079712,445
+Insulin resistance is seen in liver disease because of-,B,B,True,1.332519292831421,531
+A patient with Tubercular meningitis was taking ATT regularly. At end of 1 month of regular intake of drugs deterioration in sensorium is noted in condition of the patient despite good compliance for drugs. Which of the following investigations is not required as emergency condition?,C,D,False,1.3703081607818604,486
+Which of the following is true about prostate cancer?,A,A,True,1.3406810760498047,543
+"Which of the following anticoagulant preservative can be used to store blood, so that it can be kept for 35 days?",C,A,False,1.3069770336151123,529
+"A patient presents with ascending muscle weakness for 2 days. On examination, the limb is flaccid. What investigation should be done first?",A,A,True,1.2687804698944092,542
+Acetone breath is a feature of:,D,D,True,1.3184905052185059,516
+"A 40 years old female currently on a drug for psychiatric illness and hypeension presents with NYHA class III hea failure with dyspnea, pedal edema and K+ levels of 5.5 mEq/L and creatinine 2.5 mg%. Which of the following drug is best avoided?",C,A,False,1.3044517040252686,581
+Green discoloration of teeth is seen in:,C,B,False,1.2377328872680664,450
+A young lady with symptoms of hypehyroidism with elevated T4 and TSH levels were 8.5. Fuher examination reveals bitemporal hemianopia. Next step of management:,A,A,True,1.3125767707824707,535
+Which of the following is a soft tissue cyst which do not produce any radiographic changes,A,A,True,1.272672414779663,543
+Addison's disease is related to:,B,B,True,1.0717663764953613,441
+Severe acidosis occurs during cardiopulmonary resuscitation. The best method to counteract acidosis is to administer:,D,D,True,1.3259878158569336,520
+Gardner syndrome does not include:,C,A,False,1.287757396697998,525
+C wave in JVP due to,C,A,False,1.2486610412597656,463
+A patient is suffering from dehydration secondary to diarrhea. Which of the following intravenous agent is used in this case?,C,C,True,1.2855288982391357,603
+A 5-years old child was presented with proptosis. Microscopic examination of the mass revealed a round cell tumor positive for Desmin immunohistochemical marker. Most likely diagnosis is ?,B,B,True,1.2935895919799805,519
+"A 50 years old lady, who has a known diagnosis of bronchial asthma, presented to the AIIMS emergency with complaints of severe breathlessness, diaphoresis and wheezing. On examination, you find that the patient is conscious with a respiratory rate of 30 per minute, blood pressure of 96/64 mm Hg and a pulse rate of 144 per minute. An aerial blood gas analysis showed a pH of 7.2, p02 of 50 mm Hg and pCO, of 70 mm Hg. How will you manage the patient?",A,A,True,1.378537893295288,552
+"A patient of CKD has presented with protracted vomiting. ABG shows pH = 7.40, pCO2 = 40 mm Hg, HCO3 = 25 mEq, Na=145 mEq/L, Chloride = 100 mEq/L, HCO3 = 24 mEq/L. What is the observation?",D,B,False,1.342731237411499,640
+Which of the following cannula is used in patient with severe dehydration and diarrhea?,C,A,False,1.2902188301086426,523
+All of the following statements of nasal fractures are true except:,B,C,False,1.2757420539855957,469
+On stretching the cheek the lesion disappears in:,C,A,False,1.298532485961914,572
+"A 56-year-old female presents with nocturnal pain in the right thumb, index and middle finger for the past 3 months. All of the following provocative tests can be performed for the diagnosis of the condition except :",B,A,False,1.3037152290344238,616
+Main mechanism of action of heparin Is to prevent:,B,A,False,1.293670654296875,554
+"""Hair-on-end"" appearance in a skull roentgenogram is
+seen in :",B,A,False,1.2856810092926025,521
+Which of the following is a false statement?,C,A,False,1.2671260833740234,461
+"In choriocarcinoma, lung metastasis occurs in which stage?",C,D,False,1.2758078575134277,496
+In which of the following disorders a circulating antibody directed to intercellular cementing substance of stratified squamous epithelium is observed:,D,C,False,1.2889719009399414,471
+FNAC can not diagnose,B,D,False,1.247042179107666,437
+Lacunar cells are seen in which type of Hodgkin’s lymphoma,C,A,False,1.2713139057159424,522
+Organic component of bone comprises of:,D,A,False,1.2956109046936035,512
+What is the difference between RIFLE & KDIGO criteria in differentiating a tubular injury?,C,A,False,1.325490951538086,577
+"In a 40 years old patient with head injury, which of the following is the best strategy to decrease the intracerebral pressure?",A,A,True,1.3197100162506104,517
+All the following are seen in myasthenia gravis except:,C,D,False,1.286458969116211,491
+A patient notices a well demarcated area of depapillation on his tongue which has been there for as long as he can remember. The most probable diagnosis:,A,A,True,1.3102233409881592,452
+Inheritance of cleft lip and palate is,C,C,True,1.300201654434204,555
+Localised suppuration of lung is called:,A,A,True,0.952171802520752,513
+Patient who is a known case of thalassemia major already on repeated blood transfusions with history of iron overload previously treated with chelating agents. She also has a history of cardiac arrhythmia. She came for BT now. During BT patient complained of backache and looks extremely anxious. What is next management?,D,B,False,1.3403432369232178,561
+"In a patient with obstructive jaundice, what is the possible explanation for a bilirubin level of 40 mg/dL?",C,A,False,1.1102962493896484,498
+"A 11 year old boy with grossly carious right maxillary lateral incisor, LA is given, complains of burning sensation in right eye, swelling in right eyelid, best statement to explain this condition.",C,B,False,1.3223576545715332,551
+The red blood cells in beta thalassemia are typically:,B,B,True,1.2945399284362793,511
+"A 60 years old patient who had myocardial infarction 2 weeks back, the lipid profile is done for a patient and reveals HDL 32 mgldL, LDL 126 mg/dl, TG 276 mgl/dL. Which of the following is preferred for this patient ?",D,A,False,1.2888789176940918,498
+Complete obliteration of pulp is seen in all except:,B,D,False,1.3179917335510254,514
+Streptococcus mutans is considered to be a principal etiologic agent of caries because it produces organic acids and it:,A,A,True,1.343677282333374,587
+A patient has had recurrent optic neuritis bilaterally with transverse myelitis. Visual acuity in right eye is 6/60 and left eye is 6/18. Patient showed a 50% response to steroids. Diagnosis is?,A,A,True,1.3446130752563477,558
+The maxillary sinus drains into the,A,A,True,1.30621337890625,524
+"A 48-years-old male reported to you with fractured central incisor with fracture line extending 4 mm gingival below CEJ with thin bone buccally and thick apicopalatally, treatment of choice is:",A,D,False,1.336693286895752,569
+Open reduction & fixation of fracture of mandibular condyle is indicated when,A,D,False,1.3246591091156006,612
+"Best graft for alveolar cleft surgery
+(Or)
+Patient with cleft palate graft taken from",A,D,False,1.3467748165130615,591
+"Calculate the base deficit in a patient of weight 75 kg with a pH = 6.96, pCO2 = 30 mm Hg and HCO3- = 6 mEq/L:",C,A,False,1.2902770042419434,464
+"Storage temperature of RBC, Platelet, and Fresh Frozen Plasma (FFP) are:",A,B,False,1.332075834274292,522
+A patient underwent thyroidectomy for hypehyroidism. Two days later he was presented with features of thyroid storm. What is the most likely cause?,D,A,False,1.3831663131713867,562
+A 27 years old lady with 20 weeks pregnancy presented with a thyroid nodule on right side. FNAC from the nodule was suggestive of papillary carcinoma. Which of the following is contraindicated in her management?,C,A,False,1.3566515445709229,506
+"Diminution in normal size of the body, well proportioned body, fine sparse hair on the head and other hairy regions wrinkled atrophic skin and often hypogonadism could be diagnosed as suffering from:",B,D,False,1.3758747577667236,581
+Bacteria responsible for post-operative endocarditis is:,B,B,True,1.363560676574707,379
+"A young donor came to the blood bank for the first time for platelet apheresis with platelet count of 1.9L. During the course he developed paresthesias, circumoral numbness during donation. His vitals remain stable though. ECG showed tachycardia with ST-T changes. What is the reason for his symptoms?",B,B,True,1.390012264251709,538
+A patient with Ludwig's angina comes to you. What will be your first treatment step:,D,A,False,1.4059624671936035,599
+"According to WHO guidelines, latent TB should be ruled out in all the following situations except:",B,A,False,1.452589988708496,583
+"When adequate bone  buttressing is present, the AO system of fixation suggests",C,B,False,1.352449655532837,487
+A 36 years old patient underwent breast conservation therapy and chemotherapy for a 1.5 x 1.2 cm ER positive breast cancer with one positive axillary lymph node. She is now on tamoxifen. How will you follow-up the patient?,C,C,True,1.4478561878204346,601
+All of the following are indications for thrombolysis in a patient with stroke except:,B,A,False,1.4300014972686768,511
+Most common site of esophageal carcinoma?,A,A,True,1.3492164611816406,476
+"Serum chemistry analysis in a patient reveals pCo2=30mm Hg, pO2=105mm Hg, pH=7.46. This profile indicates",C,A,False,1.3945610523223877,577
+"If impacted 3rd molar is to be extracted in patient planned for bilateral sagittal split osteotomy, then extraction should be done",D,B,False,1.3816571235656738,511
+"Swollen joint, anemic, loose teeth & dentin dysplasia are
+because of deficiency of:",A,D,False,1.4203760623931885,460
+In which of the following glucocoicoid is used?,B,D,False,1.4164354801177979,576
+Relative bradycardia is uncommon in:,C,A,False,1.402294397354126,516
+The treatment of choice for stage-I cancer larynx is:,C,A,False,1.4737305641174316,577
+Which of the following is not a small round cell tumor?,D,D,True,1.4005355834960938,537
+"What is the advantage of chromic gut over plain
+gut suture in deep wounds?",C,C,True,1.4158034324645996,577
+"In a patient of oral & maxillofacial trauma, cervical injury is not ruled out, intubation of preference will be:",D,A,False,1.4266233444213867,509
+Fine needle aspiration cytology (FNAC) is not enough to diagnose:,B,A,False,1.4332771301269531,508
+Normal anion gap metabolic acidosis seen in all except?,D,A,False,1.3472232818603516,521
+Which among the following should be the last resort for giving L.A technique to the patient,A,D,False,1.4290318489074707,537
+Which of the following is associated with defective apoptosis and increased cell survival,B,A,False,1.408344030380249,536
+A 45 year patient working in a factory for past 20 years presents with breathlessness. HRCT chest shows pleural thickening and fibrosis. Histopathology of the lesion shows?,A,A,True,1.4690630435943604,579
+Which is the best anticoagulant to send sample for serum electrolyte measurement?,B,D,False,1.3529109954833984,475
+Erosive lichen planus resembles which of the following,B,B,True,1.4078466892242432,475
+"Which laboratory test is most useful for patient under
+dicumarol therapy?",A,A,True,1.4255197048187256,596
+Infectious mononucleosis is caused by?,A,A,True,0.9847109317779541,518
+Maximum spherocytes is seen in,A,A,True,1.382133960723877,583
+"Difference in transudate & exudate is that the former
+has a:",A,A,True,1.4408752918243408,570
+Which of the following complications of stroke need not to be treated?,B,D,False,1.429795503616333,510
+"In a 32 year female patient, left supraclavicular lymph node biopsy histologically shows acidophilic owl eye nucleoli lying freely in empty spaces showing immunohistocompatibility with CD 15 & CD 30, it is suggestive of",A,A,True,1.4651732444763184,619
+Odontogenic keratocyst has the following feature,B,B,True,1.4412684440612793,520
+Streptococci have the ability to adhere to the tooth surfaces and contribute to caries development as they?,C,A,False,1.4382081031799316,582
+Which of the following is inherited as an autosomal dominant trait?,D,B,False,1.381939172744751,529
+Most common cyst associated with adjoining vital teeth?,A,D,False,1.3817729949951172,457
+Sorting a patient of trauma of head injury on basis of need of care and availability of resources,A,A,True,1.4092297554016113,529
+Which of the following is not a provisional entity as per WHO 2016 classification of Acute leukemia?,A,C,False,1.3481757640838623,598
+Inorganic component of bone is:,D,A,False,1.400766372680664,555
+"An elderly female presented with blockade, nasal discharge, diplopia and facial swelling. On examination, there is blackish discharge from the nasal cavity with necrosis of nasal mucosa, facial skin and palate. There is fixation of the right globe. There is elevated blood sugar and urinary ketones are positive.Which of the following would be the medication to be used in this patient?",A,D,False,1.3732075691223145,441
+Which of following is an oral precancer?,D,A,False,1.3949980735778809,591
+"White patch is seen on the buccal mucosa consisting of
+pseudomycelium and chalmydospores with desquamated
+epithelium adjacent to it, the patient is suffering from",C,C,True,1.3478939533233643,510
+Which of the following is not a tumor suppressor gene?,D,D,True,1.3037936687469482,578
+The aspirate from a keratocyst will have:,A,A,True,1.257279396057129,439
+Initially compression osteosynthesis was used for:,B,A,False,1.2958941459655762,463
+"Routine examination of a 17 years old asymptomatic boy reveals sho PR interval, and delta wave on ECG. The least effective measure for the boy would be:",B,D,False,1.280712366104126,549
+Which of the following scoring system is used for wound infection?,C,C,True,1.3279788494110107,448
+"A 10 years old boy came to emergency with complains of severe pain in right scrotum that is not relieved for the past 1 hour. On examination, testicular torsion of the right side is suspected. The surgical intervention should be:",C,A,False,1.3583502769470215,604
+"A Patient presented to emergence after A with multiple rib fractures. He is conscious speaking single words. On examination, respiratory rate was 40/minute and BP was 90/40 mmHg. What is immediate next step?",D,A,False,1.2856431007385254,483
+Focal sclerosing osteomyelitis is:,C,C,True,1.3055012226104736,543
+Most common route for metastasis of oral cancer is by:,B,C,False,1.3086121082305908,527
+"All the following are features of Addison's disease, EXCEPT:",B,A,False,1.3398516178131104,535
+"Which syndrome consists of flushing, warmness and perspiration over the cheek and pinna of the ear on the side following the ingestion of highly seasoned food?",B,B,True,1.381030797958374,596
+A patient presented with a steering wheel injury to the right side of chest with breathlessness and shock. How will you differentiate tension pneumothorax and cardiac tamponade?,C,A,False,1.3793468475341797,625
+Which of the following causes vasodilation?,C,B,False,1.3025941848754883,445
+A I 6-y ear-old girl presented with abdominal pain after administration of a sulfa drug. She was incoherent and suffered a seizure. Which of the following is the most likely possibility?,A,A,True,1.3531146049499512,530
+Microdontia is most commonly seen affecting:,A,A,True,1.3079121112823486,515
+Condylar fracture which leads to disruption of TMJ anteriorly is an example of:,C,A,False,1.3545629978179932,527
+Epstein-Barr virus-associated lymphomas are all of these except:,B,B,True,1.2863452434539795,397
+Anti-epileptic which is not associated with congenital malformation when used in pregnant woman is:,B,D,False,1.3172357082366943,592
+RBCs are stored at what temperature?,B,A,False,1.36226224899292,505
+Compression of bone is resisted by:,D,D,True,1.250871181488037,361
+Tachycardia in a patient in shock is response to:,C,A,False,1.0207173824310303,539
+Myocardial infarction; signs are all except,D,D,True,1.3153293132781982,479
+LA acts on nerve membrane by:,B,A,False,1.387669563293457,559
+"Sudden death in a patient with an acute myocardial
+infarction is most commonly due to",D,A,False,1.4264161586761475,611
+Investigation of choice for diagnosis of Zenker's diveiculum is:,D,D,True,1.3597631454467773,561
+A patient complains of numbness of lower lip. There is no history of tooth extraction . It could be:,B,D,False,1.3648416996002197,569
+Saliva is increased by:,A,A,True,1.3581180572509766,457
+Wound that does not involve dermis is,A,A,True,1.3394498825073242,500
+All of the following are true about iron deficiency anemia except:,C,D,False,1.3879029750823975,591
+"In BSSO setback, fixation in neutral posterior zone is best achieved with:",A,A,True,1.3632838726043701,516
+In a caries-free individual the saliva has:,C,B,False,1.312633991241455,438
+"In case of facial injuries with voluntary control lost over tongue, the best emergency treatment to prevent tongue from falling back is",A,A,True,1.3925364017486572,596
+All of the following statements about idiopathic thrombocytopenic purpura are true EXCEPT,D,B,False,1.3216733932495117,586
+An elderly male presents 2 months after renal trans-planatation with nephropathy. Which of the following can be a viral etiological agent?,A,A,True,1.3528852462768555,546
+"In a patient of rheumatic heart disease with fever and mitral valve vegetations due to infective endocarditis, the vegetation usually do no embolise to:",B,D,False,1.3607630729675293,588
+Infeility in kaagener syndrome is due to which of the following?,C,A,False,1.3833692073822021,516
+All are features of benign intracranial hypeension except:,A,A,True,1.4283361434936523,462
+Continuous murmur can be heard in all except:,A,A,True,1.3803863525390625,563
+"A 10 year old child came to the OPD with pain and mass in right lumbar region with no fever, with right hip flexed. The pain increased on extension and X ray showed spine changes. Most probable diagnosis is:",A,A,True,1.3192181587219238,494
+Calcification of falx cerebrl is seen in:,B,A,False,1.364337682723999,532
+The term poikilokaryosis refers to,B,D,False,1.3478550910949707,514
+Example of Dystrophic calcification-,D,D,True,1.3485207557678223,532
+Autoinnoculation is seen with?,B,A,False,1.3747010231018066,487
+A middle-aged man comes after a road traffic accident with bleeding from the scalp. He is unconscious. A card in his pocket reveals that he is a known diabetic on Tab Glimepiride + Metformin 2 tablets twice daily. What should the next step in management?,D,A,False,1.3327715396881104,519
+Sublingual tablet or sublingual GTN metered dose aerosol usually relieve angina in,B,A,False,1.3581736087799072,508
+Which is the most preferred route for drug administration in the management of chronic pain,B,B,True,1.3504536151885986,474
+"White, spongy, folded thick mucosa is seen in",C,D,False,1.3431119918823242,415
+Gene for ectodermal dysplasia with cleft lip and palate,C,A,False,1.3543214797973633,475
+Antischkow cells are present in all of the following conditions except,D,D,True,1.3761708736419678,565
+Patient on dental chair during extraction becomes unconscious; patient is breathing but not responsive. Your first step will be:,A,A,True,1.4213910102844238,528
+"An abnormal resorption pattern in primary teeth, delayed
+eruption of permanent teeth and a Large tongue are the
+features of:",B,D,False,1.3141052722930908,488
+Which of the following procedures can be used to treat an oro-antral fistula resulting from posterior surgery: (Or) Oro-antral fistula in maxillary 3rd molar region is best/commonly treated by,D,A,False,1.400820016860962,558
+"The facial proportions  between upper, middle and lower thirds of fare Is:",D,A,False,1.393761396408081,508
+Cold agglutinin is,B,B,True,1.4312570095062256,517
+Calcification of brain is seen in which of the following:,A,A,True,1.3787200450897217,383
+Cardiac dysarrythmia during extraction is caused by:,C,D,False,1.4488611221313477,589
+Syncope is usually caused by:,B,B,True,1.3957479000091553,569
+A patient with suspected cardiac tamponade presents to the AIIMS emergency. You are asked to monitor BP of this patient. All the following precautions should be taken except:,C,A,False,1.3618943691253662,523
+An asymptomatic tooth has deep caries on occlusal surface. Radiograph shows radiopaque mass at apex of the tooth; this mass is most likely to be:,B,C,False,1.4081699848175049,523
+Best diagnostic investigation for acute appendicitis in children is:,C,C,True,1.3716397285461426,560
+Which of the following is true about WILSON disease,C,A,False,1.4069418907165527,557
+Which of the following is not true regarding iron supplementation in iron deficiency anemia?,B,B,True,1.4566845893859863,629
+Glanzmann disease is,A,A,True,1.3813591003417969,505
+All are true about use of articaine in a child except,B,C,False,1.4213745594024658,539
+Which of the following is most common developmental cyst,A,A,True,1.4378039836883545,540
+What does the red cell distribution width represents?,A,A,True,1.3730006217956543,521
+An intubated patient with eye opening to pain with abnormal flexion. What is the GCS score?,A,A,True,1.4286367893218994,529
+"In a male after laparoscopic cholecystectomy, the specimen is sent for histopathology which shows carcinoma gallbladder stage T1a. What is the most appropriate management in this patient?",C,A,False,1.431213617324829,567
+"A glass factory worker presented with complaints of numbness in hands and feet, generalized weakness and constipation. Radiograph showed linear lines on metaphyses of knee and wrist joints. How will you diagnose this patient?",D,A,False,1.3455047607421875,565
+In symphyseal fracture with lag screw fixation?,B,B,True,1.2873961925506592,485
+Non-visualization of gallbladder in hepatic scintigraphy is suggestive of:,C,D,False,1.38157057762146,522
+In Prinzmetal’s angina,D,B,False,1.3713061809539795,515
+Hepcidin inhibits which of the following?,D,B,False,1.3545281887054443,491
+Which of the following is associated with HIV infection,A,A,True,1.3469467163085938,478
+"In aerial blood gas analysis of a patient with pCO2- 30, p02-115 and pH-7.45, patient has compensated:",A,D,False,1.3790466785430908,547
+Adeno ameloblastoma treatment,C,A,False,1.376152753829956,502
+"In hemorrhagic shock, hypotension occurs when blood loss is more than:",D,D,True,1.3729791641235352,546
+Best test that shows the integrity of intrinsic pathway of clotting mechanism,B,B,True,1.3723814487457275,533
+Cells with greatest affinity to bisphosphonates are:,C,C,True,1.3514196872711182,506
+The radiographic view of choice for demonstrating a nasal fracture is:,C,A,False,1.3794200420379639,516
+A patient underwent extraction of 3rd molar experiences pain in socket on 3rd day; socket is tender with no fever and swelling: what treatment should be done,A,A,True,1.322113275527954,426
+The cannula infuse maximum fluids in dehydration and diarrhea is,A,B,False,1.3518202304840088,504
+A 30 year old male presented with severe dyspnea. His investigations showed mitral stenosis with left atrial enlargement. The histopathology repo from his mitral valve is shown below. What is the likely diagnosis of these patients?,D,D,True,1.3799207210540771,535
+In biopsy true about formalin as fixative is all except,D,D,True,1.3749113082885742,574
+"A 50 years old patient presented with progressive jaundice. Liver function test was done in which conju!gated serum bilirubin-4.8% and total bilirubin-6.7%, alkaline phosphatase- 550 IU, SGOT-50, SGPT-65. Most probable diagnosis is;",A,A,True,1.3544096946716309,592
+"A young girl with the diagnosis of acute promyelocytic leukemia (APML) was treated medically. On day 3 of treatment, she developed tachypnea and fever. Chest X-ray shows bilateral pulmonary infiltrates. Which of the follow ing drug should be given next?",D,C,False,1.360959768295288,502
+Basophils are activated by,D,A,False,1.31544828414917,484
+Fracture passing through mental foramen in mandible with less than 10 mm of bone can be best managed by,A,A,True,1.3324975967407227,501
+Hyperkalemia management includes all except:,D,A,False,1.3550951480865479,547
+"46.	A 9 year old child has increased Horizontal anterior bone loss, less cementum and on test shows excretion of phosphoethanolamine in the urine. The child is suffering from.",A,A,True,1.3894710540771484,466
+"A 3 year old child has a fever of 102 degrees F; and
+following upper respiratory tract infection discrete vesicles and ulcers on the soft plate and pharynx are noted. The most probable diagnosis is",A,D,False,1.3448641300201416,528
+Which inflammatory mediator involve in intracellular killing of microbes?,C,C,True,1.3038806915283203,488
+A 24 years old college student while playing hockey injured his right knee. This patient presents after 3 months with instability of knee joint in it full extension without instability at 90 degree of flexion. The structure most commonly damaged is:,A,A,True,1.3277039527893066,574
+"A 56yr old underwent transsphenoidal hypophysectomy for pituitary tumour. Now he has low ACTH, TSH, FSH, LH. Which of the hormone will not be given to the patient?",B,D,False,1.320814847946167,488
+"Following a A, a young man was brought to ER. Due to massive blood loss, 2 units of PRBC and 4 platelets obtained from blood bank. Only one IV line was accessible. What will you do?",A,A,True,1.3455133438110352,632
+"Peg-shaped incisors which taper towards the indsal edge
+are typically seen in all of the following conditions EXCEPT",B,A,False,1.3458027839660645,554
+Pick out odd drugs for anaesthetic emergencies are:,D,D,True,1.3495433330535889,558
+Low grade infection which leads to localized periosteal reaction is:,A,C,False,1.3310942649841309,579
+72-y ear-olo gentleman with normal renal functions presents with new onset focal seizures. Which of the following is the best drug to manage the patient?,B,A,False,1.4192092418670654,552
+Death due to smoke inhalation is due to:,B,A,False,1.3105881214141846,505
+"Babu, a 49-year-old patient, complains of foul breath and regurgitation of food eaten few days back. He also complains of dysphagia. The probable diagnosis is:",D,B,False,1.3494524955749512,517
+False statement about Thyroglossal Duct cyst is-,A,B,False,1.3477869033813477,582
+A 56 years old patient came to casualty with history of massive hemoptysis. His routine investigations and chest X-ray was normal. Which of the following is not done to prevent hemoptysis?,D,D,True,1.3127679824829102,571
+"While doing emergency laparotomy for an intestinal obstruction, which organ will you first visualize to say whether it is small bowel or large bowel obstruction?",C,C,True,1.3277697563171387,505
+Which one of the following is not a criterion for making a diagnosis of chronic myeloid leukemia in accelerated phase:,D,B,False,1.370093822479248,602
+"Oral hairy leukoplakia is seen in AIDS patients. The most
+likely site of appearance is:",A,A,True,1.354198694229126,544
+Which one of the following is a connective tissue tumour:,A,A,True,1.3156914710998535,495
+"In a patient with thrombocytopenia, what is the target platelet count after transfusion to perform an invasive procedure?",C,A,False,1.3610262870788574,519
+Sjogren's syndrome includes all except:,D,A,False,1.3126423358917236,483
+Which of the following occurs most commonly on tongue?,A,A,True,1.3184962272644043,554
+The cyst that moves by protruding the tongue is:,A,A,True,1.2858848571777344,510
+"During maxillary osteotomy, which of the following can be given to prevent bleeding:",D,D,True,1.3396906852722168,596
+"What is the term for the radio opaque area found at the
+root apex of young permanent teeth involved with a chronic pulpitis?",B,B,True,1.304321527481079,425
+"When force are applied on lateral surface at angle region, compression is generated on:",B,B,True,1.3195436000823975,431
+Submental intubation is an alternative to tracheostomy in which type of fractures?,C,A,False,1.4113686084747314,535
+"A 60 years old patient having cardiorespiratory arrest in hospital ward, for oxygenation what should be done immediately?",B,A,False,1.4319908618927002,542
+Which of the following doesn't have any effect on pancreatic secretion?,D,D,True,1.353912353515625,501
+Treatment of fibrous dysplasia is:,C,C,True,1.2921204566955566,451
+"A 26 years old female presented with pallor and hemoglobin of 9.5 mg/dl, PCV 30 mm Hg and RBC count of 2 million/mm. What is the most likely diagnosis?",D,C,False,1.4272470474243164,618
+Which of the following infections causes a non-centrally distributed rash?,A,C,False,1.3197388648986816,525
+"A 14 years old male child presented with abnormal body movements with MRI showing signal changes in corpus striatum, thalami, pons, medulla, centrum semiovale and asymmetric diffuse white matter involvement. Most likely diagnosis is:",C,D,False,1.3497967720031738,557
+"Which of the following is the most likely (among them)
+to turn malignant?",B,A,False,1.3493211269378662,543
+In case of Condylar fracture dysarthrosis refers to:,B,B,True,1.3692452907562256,611
+"In a patient with dehydration, which of the following color intravenous cannula will you place for rapid fluid resuscitation?",A,B,False,1.480710744857788,627
+Where is the second step of damage control resuscitation carried out?,B,A,False,1.3256700038909912,460
+"A girl comes with symptoms of involuntary movements. Sydenham's chorea and acute rheumatic fever is suspected. Other major criteria of rheumatic fever (ahritis, skin rashes, subcutaneous nodules and carditis) were absent. No evidence of sore throat. Best investigation to prove rheumatic etiology is:",B,A,False,1.3421833515167236,498
+All of these are true about microalbuminuria,A,A,True,1.3853139877319336,513
+A 45 years old female presented with a history of pain!less breast lump of size 6 x 5 cm in left upper quadrant with no axillary lymph nodes. A true-cut biopsy was suggestive of ductal carcinoma in situ. She undergoes surgery with resection of all tumor tissue with adequate margins and postoperative HPE showing DCIS with high grade necrosis with 4 mm clearance on margins. Which of the following is needed?,C,C,True,1.378375768661499,674
+A man who had suffered from displaced fracture of mandible complains of pain in-old fracture site near mental foramen. There is a movable tender mass on palpation in the area. The best preoperative diagnosis is:,D,D,True,1.322230339050293,516
+Addison's disease is due to:,A,A,True,1.3800063133239746,491
+"In post splenectomy patient, chances of Infection with which of these Increases:",A,A,True,1.5052618980407715,595
+"A 4-year-old child has a normal complement of primary teeth, but they are grey and exhibit extensive occlusal and incisal wear. Radiographic examination indicates extensive deposits of secondary dentin in these teeth. Most likely this condition is:",D,D,True,1.3307247161865234,546
+In genomic imprinting. DNA is modified by:,B,B,True,1.4052445888519287,515
+"A 62 years old woman presented with acute onset confusion and bumping into th ings. On examination, she was ale, oriented with fluent speech and normal comprehension. Fuher examination revealed impaired writing (acalculia), right-left confusion, impaired arithmetic abilities, difficulty in finger identification. MRI demonstrated foci of coical and sub coical increase T2 signals and areas of leptomeningeal enhancement. Most likely diagnosis:",A,A,True,1.4419193267822266,653
+A patient came with complaints of lower limb weakness. Examiner places one hand under the patient's heel and patient is asked to raise his other leg against downward resistance. What is the name of this test?,A,A,True,1.3702983856201172,609
+Dietary goals for avoiding Coronary Artery Disease include,D,B,False,1.3472306728363037,488
+"During 3rd molar surgical extraction, distal incision is curved buccally to prevent injury to:",B,B,True,1.363464117050171,550
+Which of these is the most reliable method for monitoring fluid resuscitation?,A,A,True,1.3516161441802979,576
+Which of the following is not a cross-linking fixative?,C,C,True,1.297755479812622,477
+Gene which inhibits cell cycle is -,A,A,True,1.334775447845459,556
+"A 1.5 years old child was brought to emergency with history of burn by hot water on both hands and palms. The lesion was pink, oozing and painful to air and touch. Which of the following is the best management for this patient?",A,D,False,1.3642172813415527,679
+The police has brought an unresponsive patient to you. What is the first thing you will do?,B,C,False,1.3581416606903076,578
+"Features of cardiac rest pain are all, except",D,D,True,1.2960002422332764,523
+Which of the following is the most consistent feature of rapidly progressing glomerulonephritis (RPGN)?,A,A,True,1.3830933570861816,494
+Which of the following is not a risk factor for malignancy,B,C,False,1.4148621559143066,575
+"A person met with road traffic accident and came to casualty with contusion on anterior chest wall with Pulse rate-90/minute, BP-120/80 mm Hg, respiratory rate-16/minute. Normal hea sounds are heard but breath sounds were decreased on the left side and trachea was deted towards right. Which of the following is the first line management?",C,A,False,1.4072070121765137,584
+A rhabdomyoma is a tumour originating from,C,B,False,1.325598955154419,441
+The most common complication following rheumatoid arthritis of the TMJ is:,A,A,True,1.377356767654419,570
+In pregnancy cardiac output increases 30 to 40% during?,D,C,False,1.3711004257202148,574
+"A patient was found to have splenomegaly, anemia and jaundice. All of the following is true about this condition except:",D,D,True,1.3550560474395752,492
+Langerhan’s histiocytosis was previously known as,D,D,True,1.4128053188323975,542
+Magenta tongue and cracks at corner of mouth are seen in deficiency of:,C,B,False,1.330801010131836,437
+What is the most common sequelae of traumatic shoulder dislocation in young adults?,B,B,True,1.3557088375091553,509
+Burning tongue might not be associated with,A,D,False,1.3820135593414307,532
+GNAS-1 gene mutation is associated with:,A,A,True,1.3888299465179443,549
+Which drug is given to prevent acute mountain sickness?,A,A,True,1.3372695446014404,535
+Which of the following is a negative acute phase reactant?,C,C,True,1.349806308746338,460
+"40 year old female came with fullness in upper right quadrant of abdomen with diabetes type II, hyperlipidemia, biopsy shows",C,C,True,1.3550910949707031,550
+"A person is HBsAg positive, but Anti- HBc Ab is negative. What should he the next step?",B,A,False,1.2826101779937744,493
+Nobel prize for medicine/physiology in 2018 for the discovery of:,C,B,False,1.3492074012756348,546
+All of the following decrease in iron deficiency anemia except:,B,A,False,1.3179244995117188,550
+A 45 y ears old patient presented to you with ongoing massive hematemesis. The patient is ale and hemodynamically stable. What will be the first step in management?,B,A,False,1.3219621181488037,526
+Extraction of a tooth during acute infection:,B,A,False,1.1951642036437988,507
+A 22-year-old female gives the history of recurrent joint pains. She has now developed petechial hemorrhages. She is most likely to have:,D,A,False,1.3780012130737305,498
+"After a midline laparotomy, you have been asked to suture the incision. What length of suture material will you choose?",B,A,False,1.3749322891235352,594
+Class 3 hemorrhagic shock refers to:,C,D,False,1.3386273384094238,577
+"In a school bus accident, which of the following victim you will attend first?",A,A,True,1.3331153392791748,498
+Augmented genioplasty is done by:,A,B,False,1.3649184703826904,513
+"Marked reduction in amount of dentin, widening of predentin layer, presence of large area of interglobular dentin and irregular pattern of dentin is seen in",B,D,False,1.3187434673309326,560
+Gingiva is most commonly affected by deficiency of:,C,C,True,1.358025312423706,510
+"During autopsy of a patient died due to suspected myocardial infarction, the hea was stained with triphenyltetrazolium tetrachloride dye. What will be the color of the ble myocardium?",B,A,False,1.329662799835205,527
+"A 29-year-old, 4 months pregnant primigravida has history of juvenile myoclonic epilepsy. She has been regularly taking sodium valproate and now presents requesting for an opinion for a change in her anti-epileptic treatment. What would you sugeets her?",C,A,False,1.3233051300048828,550
+Which of the following would you consider ohostatic hypotension?,A,A,True,1.3255090713500977,620
+Cerebellar lesion can produce all of the following except:,C,C,True,1.4154236316680908,549
+Enzymes elevated in the plasma in MI,D,D,True,1.337712287902832,460
+In which of the following tumor MRI is better than CT Scan..,D,B,False,1.3428516387939453,509
+Anti-centromere antibodies are seen in which of the following conditions?,D,D,True,1.3394458293914795,518
+Medial dislocation of fractured condyle in subcondylar fracture is caused by,A,B,False,1.2877612113952637,474
+"Unstable Angina, True is",A,A,True,1.2982900142669678,502
+"A known 60-year-old male Diabetic and hypeensive patient was found unconscious in the morning. On examination pulse- 120, bp- 180/100 and there was positive extensor plantar. What is next step to be done?",D,A,False,1.3390414714813232,593
+"A 4 years old child was brought to the hospital with right impalpable testsis. During diagnostic laparoscopy for undescended testis, there are blind testicular vessels. What should be done next?",B,C,False,1.2666099071502686,454
+"Carbamazepine has been utilized to successfully diminish attacks in trigeminal neuralgia. During this therapy, which of the following is indicated?",B,C,False,1.3207364082336426,632
+Acanthosis is,C,B,False,1.2766716480255127,508
+Excision of the submandibular gland for calculus or tumours is done by incision below angle of the jaw. Special care should be taken to avoid which nerve?,B,B,True,1.3292205333709717,524
+"A man has 1x1.5cm pedunculated lesion on the soft palate which has a rough, ""warty"" surface but is the same colour as adjacent mucosa. Appropriate management of this lesion is to:",B,A,False,1.3217289447784424,495
+"A lady complains of headache, nausea and tenderness in temporal region with migraine. On microscopic investigation what will be seen",B,B,True,1.330306053161621,470
+All the following are true about imaging in primary survey of a trauma patient except:,D,C,False,1.3156259059906006,534
+"Radiographs of a 40 year old female revealed radiolucent
+areas around several of her mandibular teeth, all which tested vital on the electric pulp tester. These areas represent",B,A,False,1.330458641052246,540
+"Hypertonic salt solutions are used in all, except",D,B,False,1.2873914241790771,574
+Direct Coombs test is positive in all the following except:,C,C,True,1.25911545753479,406
+Most metabolically active layer in the bone is:,B,B,True,1.3044376373291016,546
+Which of the following anticoagulant is used for electrolyte estimation?,D,B,False,1.3080425262451172,531
+"A 48 years old female presents with seizure, recurrent gross hematuria and left flank abdominal pain. Abdominal CT reveals left perinephric hematoma with 3 cm angiomyolipoma along with multiple right renal angiomyolipoma measuring 1.5 to 6.5 cm. What would be the most probable diagnosis?",C,A,False,1.3479373455047607,608
+Distraction osteogenesis is done in pediatric patient which of the following is considered,A,A,True,1.3165693283081055,584
+"Malignant peripheral nerve sheath tumour showing which of the following differentiation is termed as ""Triton tumour""?",B,B,True,1.293304443359375,520
+During laparoscopic inguinal hernia repair a tacker was accidently placed below and lateral to the ilio-pubic tract. Postoperatively the patient complained of pain and soreness in the thigh. This is due to the involvement of:,A,A,True,1.2954580783843994,501
+"A patient of disseminated malignancy comes to the palliative care clinic with nausea, vomiting and altered sensorium. Hypercalcemia is detected on investigations. What will be the first line of management?",C,A,False,1.313188076019287,563
+"A patient presents with palpitations. O/E the patient was conscious, pulse was fast with BP of 80/50 mmHg. He was subjected to Vagal maneuver and was given intravenous adenosine. The rhythm remains refractory to maximum dose of adenosine. What is the next step in management of this patient?",D,D,True,1.34273362159729,562
+What is the name of this technique for palpation of thyroid. A thumb is placed on the lateral side of trachea and patient is swallowing?,D,A,False,1.3302135467529297,520
+A patient is not responding even after undergoing multiple platelet transfusion. Which of the following will be the best treatment for him?,C,D,False,1.3465092182159424,510
+"An adult patient with panfacial trauma, treatment should start from",D,A,False,1.2763562202453613,481
+Site of lesion in endocarditis of RHD is:,A,A,True,1.2948048114776611,481
+Which of the following is activated by intrinsic or extrinsic pathway's?,B,C,False,1.3302011489868164,478
+All of the following are regarding osteoporosis except.,C,A,False,1.370009422302246,585
+"A non-painful, slowly enlarging benign neoplasm appears as a submucosaL lu nip and exhibits pseudoepitheliomatous hyperplasia in the overlying epithelium, is most probably:",C,D,False,1.3110008239746094,513
+Valvular lesion most often resulting from myocardial infarction is:,C,B,False,1.3083603382110596,470
+Balanced resuscitation in trauma management is:-,C,D,False,1.3068504333496094,525
+A patient comes to ED with fever and headache. On examination he has neck stiffness. CSF analysis was done:- Parameter Finding Normal range Glucose (mg/dl) 55 50-80 Protein (g/L) 0.50 0.18-0.45 ICT (cmH2O) 35 5-20 WBC 25 (predominantly lymphocytes) <5 Most likely diagnosis is-,D,A,False,1.3455705642700195,575
+"A girl suffering from browning of teeth, wearing of enamel but not cavitatory. OPG shows obliteration of pulp with narrowing of canal & deposition of secondary dentin, she gave the history that out of her 4 brothers, 2 are suffering from the same disease. She is suffering from",B,B,True,1.4073173999786377,655
+In hemorrhage lost plasma is replaced by:,B,B,True,1.266636848449707,464
+Which is the most conspicuous sign in breast cancer?,B,A,False,1.3392362594604492,551
+A patient on amphotericin B develops hypokalemia of 2.3 meq/l. K+ supplementation required?,D,D,True,1.344172716140747,530
+Which of the following is common to all types of shock?,B,A,False,1.2860779762268066,548
+"A 55 years old male patient presents with 4 cm x 5 cm lump in right neck. FNAC assessment revealed it to be a squamous cell carcinoma. Clinical assessment of the oral cavity, pharynx, hypopharynx and larynx did not yield any tumor. Whole body PET scan did not show any increased uptake except for the neck mass. A diagnosis of unknown primary was made. According to AJCC system of classification, the TNM status of the tumor would be:",D,A,False,1.3611478805541992,624
+"A patient has an infectious process associated with maxillary right Lateral incisor that tooth is deeply carious and non-restorable. His temperature is 102°F. The patient has not been able to chew for the past 24 hours. The right side of the face is swollen. The patient cannot open his right eye, on palpation the area is soft, painful to touch and tissue rebound when palpated; treatment for the patient should be",A,C,False,1.3731212615966797,652
+Persons with the greatest risk of oral cancer,C,B,False,1.2985408306121826,449
+Fibrous histiocytoma involves most commonly:,D,A,False,1.351118564605713,504
+Biopsy from an eight-year-old child with leg swelling showed smallround blue tumor cells consistent with diagnosis of Ewing's sarcoma. What will be the best method to detect translocation t(ll;22) in this malignancy?,C,C,True,1.3652286529541016,616
+A 7 years old child comes with fever and tibial swelling exhibits on X- ray exhibits periosteal reaction. Laboratory results show raised ESR and TLC. What is the next step in diagnosis of the patient?,A,C,False,1.3173370361328125,547
+Which of the following is not true about the salivary gland output in Sjogren's syndrome?,B,B,True,1.2711074352264404,467
+"While measuring blood pressure of a cardiac tamponade patient, what advice will you give him:",B,B,True,1.3082993030548096,469
+Check point for ZMC fracture reduction is:,A,C,False,1.2733874320983887,454
+Which score is used for wound infection,B,B,True,1.344496726989746,498
+Hypertonic solution is used in all except,B,A,False,1.4168405532836914,510
+"Diabetes insipidus, bone lesions and exophthalmos is seen in",D,D,True,1.3954179286956787,524
+White rough pedunculated lesion on palate is most likely:,B,B,True,1.4058811664581299,506
+Which of these is pierced during posterior superior alveolar nerve Block?,C,A,False,1.4367547035217285,458
+"SCC present on lateral margin of tongue of staging T2N0, options of treatment is",D,A,False,1.394644021987915,562
+Not a feature of infective endocarditis:,C,A,False,1.3759150505065918,519
+A dentist planning to remove an impacted tooth will need which of the following radiographs:,B,A,False,1.396310567855835,543
+CSF leakage is diagnosed by all except,C,A,False,1.4080018997192383,559
+Lead cause following except,D,A,False,1.3981382846832275,606
+"A 25 year old lady on treatment for rheumatoid ahritis has following lab findings: Hb-9gm/dl, MCV- 55fl, serum iron-30microgm/d1, ferritin 200 ng/ml, TIBC- 298 micrograms/dl. What is the most probable diagnosis?",C,C,True,1.3778173923492432,478
+"A lady developed breathlessness, pruritus, uicaria 1 hour after eating NSAIDS for headache. Chest examination was remarkable for rales with BP-80/50 mm Hg. All of following can be used for initial management except:",B,A,False,1.4560487270355225,546
+All are used in management of overdosage of Fibrinolytics except?,C,A,False,1.4623615741729736,499
+Mucocutaneous circumoral pigmentation is found in:,A,A,True,1.410428762435913,459
+"A 9 year old child's mother comes to dental clinic with the complaint of oral ulceration, fever and shedding of skin of palms and soles; she is giving history of premature shedding of teeth and increased sweating, she is also giving one month history of using any new teething gel available in market. The child is suffering from.",A,A,True,1.3388569355010986,425
+"Polyglycolic acid suture material (""vicryl/Dexon"") is an:",B,B,True,1.3351407051086426,494
+All are true about instrument given except:,A,A,True,1.4381811618804932,587
+RBC should be transfused:,C,D,False,1.3782024383544922,594
+In OKC which is more aggressive and has more recurrence potential,B,A,False,1.403075933456421,509
+Infective endocarditis due to pseudomonas is most commonly seen with:,A,A,True,1.4270591735839844,577
+Garre's osteomyelitis all statements are true except:,C,D,False,1.3877036571502686,495
+Which of the following may be a feature of acromegaty?,A,A,True,1.4305033683776855,571
+Immunofluorescence staining pattern from a kidney biopsy from a 35-year-old patient presenting with proteinuria has been shown below. What is the most probable cause?,C,B,False,1.4139418601989746,585
+Which of the following is the most common symptom of aooiliac occlusive disease?,B,A,False,1.4197802543640137,481
+Which of the following produces osteoblastic secondaries,D,A,False,1.4585583209991455,491
+Scaphocephaly is caused by premature fusion of:,B,C,False,1.5208230018615723,537
+"In a patient with dengue hemorrhagic fever, which of the following is most impoant to monitor?",D,C,False,1.402698278427124,546
+'Potts puffy' tumour is:,B,?,False,1.4673855304718018,514
+Event of early acquisition of malignant phenotype of epithelium is an expression of:,D,B,False,1.3445301055908203,379
+Which cell releases vasoactive amine so as to increase vascular permeability?,C,C,True,1.4035935401916504,489
+Hepatitis B occurs after an incubation period of:,C,D,False,1.453181505203247,522
+"In a patient with post-tuberculosis bronchiectasis, which of the following will you observe on auscultation?",C,C,True,1.355539321899414,462
+Moality associated with emergency abdominal aoic surgery is:,C,D,False,1.4004151821136475,604
+Which among the following laboratory investigation is best to reveal bleeding in Disseminated Intravascular Coagulation (DtC.?,D,D,True,1.3930928707122803,455
+Monitoring and diagnosis after completion of H. pylori treatment is done through,B,B,True,1.4401977062225342,549
+"ECG with ""mean"" axis of 90deg. In which lead there would be the maximum voltage of R wave?",C,A,False,1.3897557258605957,553
+"In arthroscopy, for TMJ adhesion lysis, the laser used is:",A,B,False,1.4610741138458252,569
+A middle aged male patient presents with fever and diarrhea for 1 week and acute onset pain abdomen for 6 hours. An erect abdominal X-ray was taken as shown. What is the likely diagnosis?,D,A,False,1.4242589473724365,593
+Scaphoid fracture at waist with retrograde blood supply. Which segment is most susceptible to avascular necrosis?,A,C,False,1.395935297012329,486
+You have performed a pleural tap in a patient with suspected TB. You will send the sample for all of the following studies except:,D,A,False,1.434685468673706,520
+HOX gene is responsible for which malformation,A,A,True,1.3878178596496582,511
+Lateral pharyngeal space is not connected directly by:,A,D,False,1.4137616157531738,441
+On abdominal ultrasound gallbladder shows diffuse wall thickening with hyperechoic nodules at neck and comet tail aifacts. The most likely diagnosis will be:,A,C,False,1.4099972248077393,500
+"A child with Down's syndrome has Moon facies, retarded mentally and which of the facial characteristics:",D,A,False,1.3498501777648926,522
+Expected surgical procedure most frequently indicated for odontogenic cysts is:,D,D,True,1.4068000316619873,599
+"A boy complains of bleeding gums, swollen, Joints with hemorrhage into joints. His paternal and maternal uncle complains of same problem. It is due to deficiency of factor:",A,D,False,1.3462414741516113,545
+"A patient presented with intermittent fever, no weight loss, no anorexia, but with a retroperitoneal mass. Peripheral smear findings were normal. Gross & microscopy of the mass is given. What's the diagnosis?",B,B,True,1.3528921604156494,552
+"One day after complete mouth extraction, blue black spots are seen on the neck of the patients. These spots indicate:",B,B,True,1.3544921875,517
+painful crater like 1.5 cm ulcer develops within one week on the hard palate mucosa of a 40 year old female. The most likely diagnosis is:,D,D,True,1.3396539688110352,514
+Most common cause of lobar hemorrhage in elderly age group ?,D,C,False,1.3420612812042236,614
+Which of the following is least likely to cause infective endocarditis:,C,A,False,1.3815348148345947,592
+Platelet derived growth factor is released in vessels from:,D,A,False,1.3297479152679443,459
+Down syndrome is caused by all except:,D,D,True,1.2994771003723145,496
+Maximum chances of fracture are present when which of these forces are present on a bone:,A,C,False,1.293846845626831,492
+Regional Odontodysplasia is most common in,D,B,False,1.329948902130127,498
+During surgical excision of the parotid gland the following structures may be damaged:,B,A,False,1.316371202468872,556
+A dye injected in to space to see the joint is known as:,A,A,True,1.3228631019592285,545
+White radiating Lines can be observed in case of Lesions of,A,A,True,1.2902722358703613,461
+Which among the following is not true about ankylosing spondylitis?,B,B,True,1.3190183639526367,532
+Excess of plasma level of lignocaine can cause cardiovascular collapse due to:,A,A,True,1.297623634338379,504
+All are features of reversible cell injury EXCEPT,B,D,False,1.3203747272491455,478
+A patient is diagnosed of oral cancer of stage T3N2M0,B,A,False,1.2892725467681885,449
+All of the following are true about the given instrument except,D,C,False,1.3076279163360596,506
+Which diseases are infectious but not communicable?,D,D,True,1.343108892440796,546
+A 30-year-old gentleman has exce' cep at work attributed to sleep discomfo at night. He also has recent history of falling while paying with friends. What are the other features that can be seenassociated with his condition?,A,A,True,1.2701122760772705,445
+Progenitor hematopoietic stem cells originate in,A,A,True,1.3108744621276855,531
+A 20-year-old male presents with hard painless testicular swellingon investigation AFP is 3080. No paraaoic or iliac nodes as well as no mediastinal lymph nodes found. usG shows uniform echotexture and small areas of necrosis surrounding structures are normal.What is the next best steP:,C,A,False,1.3498785495758057,556
+"A patient with a history of fall after hypoglycemic episode presents with pain in bilateral preauricular region and deviation of the mandible to right side on mouth opening, probable diagnosis will be",A,A,True,1.3451132774353027,644
+"Which	of	the	following	is	associated	with	a	low
+concentration of ionized calcium in the serum?",D,D,True,1.3279566764831543,561
+Tumor cells in chronic lymphocytic leukemia or small lymphoblastic lymphoma (CLL/SLL) arisefrom which of the following?,B,D,False,1.378516435623169,517
+The oral findings in erythroblastosis fetal's include,C,C,True,1.370068073272705,466
+Latent period of distraction osteogenesis in 8 months old child is,A,D,False,1.3588201999664307,495
+Hard swelling at the angle of mandible with numerous draining sinuses is most likely:,A,B,False,1.3913025856018066,582
+Sodium bicarbonate when given with local anaesthetics has which of the following effect?,A,B,False,1.315248966217041,387
+"A patient presented with intermittent fever, no weight loss, no anorexia, but with a retroperitoneal mass. Peripheral smear findings were normal. Microscopy of the mass is given. What's the diagnosis?",B,C,False,1.4168176651000977,622
+"A healthy middle-aged man was arguing with his brother and got emotionally upset due to the arguments with his brother, he suddenly developed chest pain and collapsed. When brought to the hospital' hewas declared dead.What is the diagnosis?",A,A,True,1.459261417388916,615
+"Out of Syphilitic glossitis, Plummer Vinson syndrome, Mikulicis syndrome and hepatitis A; which of these  predispose to squamous cell carcinoma",A,A,True,1.456125020980835,531
+In submandibular surgery incision is given 2 cm below the border of mandible to preserve which nerve?,A,B,False,1.3921749591827393,507
+Which disease affects neurons only,A,A,True,1.4213836193084717,532
+Raised serum alkaline phosphatase is seen in all except:,B,D,False,1.3213386535644531,525
+A patient with tubercular meningitis was taking ATT regularly. At end of 1 month of regular intake of drugs deterioration in sensorium is noted in condition of the patient. Which of the following investions is not required on emergency evaluation ?.,D,D,True,1.3449509143829346,610
+"A 10-year old boy was presented with a mass in abdomen. On imaging, the para-aoic lymph nodes were enlarged. On biopsy, starry sky appearance was seen. What is the underlying abnormality?",D,D,True,1.394960641860962,570
+For propofol all are true except,C,C,True,1.324753761291504,467
+"Following a blunt trauma abdomen, a patient had renal laceration and urinoma. Even after 12 days, urinoma persisted, but the patient was stable and there was no fever. Next step in management would be:",C,A,False,1.3787813186645508,565
+Which of the following is unlikely to cause enamel hypoplasia?,D,?,False,1.368715524673462,496
+"In a bus accident, which patient is given more priority to
+shift to the hospital?",A,D,False,1.31711745262146,459
+Excessive bleeding during oral surgery can be decreased in which position?,A,A,True,1.3225350379943848,434
+Which of the following is not an etiological factor for pancreatitis?,C,C,True,1.3186607360839844,449
+Percentage of SSI rate in patients with a clean contaminated wound?,B,B,True,1.459501028060913,594
+All of the following are seen in MEN-1 syndrome except:,A,A,True,1.3926880359649658,461
+Which one of the following does not classify as locally advanced breast cancer?,A,D,False,1.3982462882995605,550
+Robinson's classification of ameloblastoma does not include:,A,B,False,1.4175593852996826,537
+First line therapy in anaphylactic shock is:,C,C,True,1.3183012008666992,536
+What is the cause of delirium tremens in alcoholics?,B,B,True,1.3351924419403076,448
+HbA2 is raised in:,A,A,True,1.372741937637329,566
+Hypercementosis of whole dentition is seen in,C,D,False,1.3902790546417236,476
+"Intra nuclear inclusions detected during the course of
+herpes simplex virus infection are ratted",B,C,False,1.4286327362060547,481
+Specific for Ankylosing spondylitis is true?,C,B,False,1.3674335479736328,477
+Antigen-presenting cells are all except:,D,D,True,1.3781554698944092,506
+"A child underwent a tonsillectomy at 6 years of age with no complications. He underwent a preoperative screening for bleeding at the age of 12 years before an elective laparotomy, and was found to have a prolonged partial thromboplastin time, but normal prothrombin time. There was no family history of bleeding. The patient is likely to have acquired Vitamin K deficiency:",C,A,False,1.3177249431610107,532
+"In a post operative intensive care unit, five patients
+developed post-operative wound infection on the same wound. The best method to prevent cross infection occurring in other patients in the same ward is to:",D,D,True,1.433264970779419,584
+"In transfacial proportions, the face Is divided into how many segments:",B,A,False,1.4721240997314453,549
+Which of the following Glomerulonephritis has Nephrotic syndrome except -,B,C,False,1.3416049480438232,496
+Saliva buffer system having low importance in stimulated saliva,A,D,False,1.4329516887664795,599
+Which of the following statement is not true about glomerular basement membrane?,A,B,False,1.4117283821105957,494
+In alpha thalassemia,B,B,True,1.4273958206176758,519
+First time causative agent of AIDS was discovered in:,B,B,True,1.3738994598388672,521
+A tender swelling in submandibular triangle is mostly likely diagnosed as,A,A,True,1.4055900573730469,539
+"A 25 years old unidentified male from roadside was brought by police to emergency room with disorientation, altered sensorium and vomiting. He had a BP of 90/70 mm Hg, hea rate of 110/min, temperature -36.4degC and respiratory rate of 11/min. On examination, he had bilateral pin-point pupils. What is the most probable diagnosis?",D,B,False,1.3979203701019287,535
+All the following markers are expressed on the surface of T-cells at some stage of development except:,B,C,False,1.403965711593628,597
+True about Postural Hypotension:,B,A,False,1.3961987495422363,555
+Most common type of Non-Hodgkin's lymphoma in the orbit:,A,A,True,1.2585766315460205,373
