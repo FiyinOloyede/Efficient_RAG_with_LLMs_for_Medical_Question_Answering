@@ -1,4 +1,4 @@
-# Efficient_RAG_with_LLMs_for_Medical_Question_Answering
+# Efficient RAG with LLMs for Medical Question Answering
 
 ## Overview
 This repository contains the codebase for a research project that systematically evaluates Retrieval-Augmented Generation (RAG) for medical question answering under realistic single-GPU constraints. The study compares sparse, dense, and hybrid retrieval methods, alongside diagnostic baselines that test retrieval relevance, context alignment, and knowledge-base composition. Experiments are conducted across multiple medical QA datasets using open-source 7B–8B class language models, with a focus on both accuracy and computational efficiency.
