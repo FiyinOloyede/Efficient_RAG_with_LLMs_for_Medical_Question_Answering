@@ -81,13 +81,12 @@ embedding_model_gtr = HuggingFaceEmbeddings(
 )
 
 # Create FAISS vector stores from the document chunks and their embeddings
-vector_db_gtr = FAISS.from_documents(chunks, embedding_model_gtr)
-vector_db_gtr2 = FAISS.from_documents(chunks2, embedding_model_gtr) # dataset contexts
+vector_db_gtr = FAISS.from_documents(chunks, embedding_model_gtr) # external knowledge base
+vector_db_gtr2 = FAISS.from_documents(chunks2, embedding_model_gtr) # external knowledge base with dataset contexts
 
 # Save the FIASS vector stores
-vector_db_gtr.save_local('vector_store_gtr-t5-large')
-vector_db_gtr2.save_local('vector_store_gtr-t5-large2') # dataset contexts
-
+vector_db_gtr.save_local('vector_store_gtr-t5-large') # external knowledge base
+vector_db_gtr2.save_local('vector_store_gtr-t5-large2') # external knowledge base with dataset contexts
 
 # Create embeddings using pre-trained HuggingFace model (pritamdeka/S-BioBert-snli-multinli-stsb)
 embedding_model_sbb = HuggingFaceEmbeddings(
@@ -97,9 +96,10 @@ embedding_model_sbb = HuggingFaceEmbeddings(
 )
 
 # Create FAISS vector stores from the document chunks and their embeddings
-vector_db_sbb = FAISS.from_documents(chunks, embedding_model_sbb)
-vector_db_sbb2 = FAISS.from_documents(chunks2, embedding_model_sbb) # dataset contexts
+vector_db_sbb = FAISS.from_documents(chunks, embedding_model_sbb) # external knowledge base
+vector_db_sbb2 = FAISS.from_documents(chunks2, embedding_model_sbb) # external knowledge base with dataset contexts
 
 # Save the FAISS vector stores
-vector_db_sbb.save_local('vector_store_pritamdeka')
-vector_db_sbb2.save_local('vector_store_pritamdeka2') # dataset contexts
+vector_db_sbb.save_local('vector_store_pritamdeka')  # external knowledge base
+vector_db_sbb2.save_local('vector_store_pritamdeka2') # external knowledge base with dataset contexts
+
