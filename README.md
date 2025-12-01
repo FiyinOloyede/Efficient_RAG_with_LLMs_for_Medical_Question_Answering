@@ -9,11 +9,11 @@ This repository contains the codebase for a research project that systematically
 
 - Supports three instruction/chat-tuned LLMs:
 
-  - LLaMA-3-8B-Instruct
+  - LLaMA-3-8B-Instruct [Visit link](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct)
 
-  - Mistral-7B-Instruct
+  - Mistral-7B-Instruct [Visit link](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3)
 
-  - DeepSeek-7B-Chat
+  - DeepSeek-7B-Chat [Visit link](https://huggingface.co/deepseek-ai/deepseek-llm-7b-chat) 
 
 - Implements:
 
@@ -33,11 +33,11 @@ This repository contains the codebase for a research project that systematically
 
 This project evaluates three widely-used medical QA benchmarks:
 
-| Dataset         | Description                                                                   | Citation         |
-| --------------- | ----------------------------------------------------------------------------- | ---------------- |
-| **MedMCQA**     | 194k multi-subject MCQs; 1,001-question validation split used in this project | Pal et al., 2022 |
-| **MedQA-USMLE** | 1,273 clinical vignette questions requiring multi-step reasoning              | Jin et al., 2021 |
-| **PubMedQA**    | 1,000 research-focused yes/no/maybe questions grounded in PubMed abstracts    | Jin et al., 2019 |
+| Dataset         | Description                                                                   | Citation                                                                |
+| --------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| **MedMCQA**     | 194k multi-subject MCQs; 1,001-question validation split used in this project | [Visit link](https://huggingface.co/datasets/openlifescienceai/medmcqa) |
+| **MedQA-USMLE** | 1,273 clinical vignette questions requiring multi-step reasoning              | [Visit link](https://huggingface.co/datasets/bigbio/med_qa)             |
+| **PubMedQA**    | 1,000 research-focused yes/no/maybe questions grounded in PubMed abstracts    | [Visit link](https://huggingface.co/datasets/qiaojin/PubMedQA)          |
 
 Dataset contexts for PubMedQA were also used for oracle and sensitivity-based retrieval experiments.
 
