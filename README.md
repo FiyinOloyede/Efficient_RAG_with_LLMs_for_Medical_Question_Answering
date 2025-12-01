@@ -44,35 +44,35 @@ Dataset contexts for PubMedQA were also used for oracle and sensitivity-based re
 ## Knowledge Base Construction
 Three corpus conditions are used:
  1. External Knowledge Base
-  - 23 medical sources, including textbooks, clinical manuals, and open-access journals
-  - Approximately 14 million words (119 MB) processed using LangChain + Tesseract OCR
-  - Chunking: 500-character segments with 50-character overlap
+    - 23 medical sources, including textbooks, clinical manuals, and open-access journals
+    - Approximately 14 million words (119 MB) processed using LangChain + Tesseract OCR
+    - Chunking: 500-character segments with 50-character overlap
 Additional corpora used for PubMedQA experiments:
  2. Dataset Context Only (PubMedQA):
-  - Compact, highly aligned abstracts provided by the dataset (approx. 212k words)
+    - Compact, highly aligned abstracts provided by the dataset (approx. 212k words)
  3. Merged Knowledge Base
-  - External KB + dataset contexts (approximately 14.3M words)
+    - External KB + dataset contexts (approximately 14.3M words)
 
 ## Retrieval Methods
 Implemented retrieval approaches:
 1. Sparse Retrieval
-  - BM25 (Pyserini) over inverted indices
-  - High lexical precision; low computational cost
+   - BM25 (Pyserini) over inverted indices
+   - High lexical precision; low computational cost
 
 2. Dense Retrieval
-  - FAISS exact inner-product search
-  - Encoders: GTR-T5-Large, S-BioBERT
-  - No ANN approximation used
+   - FAISS exact inner-product search
+   - Encoders: GTR-T5-Large, S-BioBERT
+   - No ANN approximation used
 
 3. Hybrid Retrieval
-  - Linear fusion of sparse + dense scores
-  - Cross-encoder reranking (MiniLM/monoT5)
-  - Returns top-5 final passages
+   - Linear fusion of sparse + dense scores
+   - Cross-encoder reranking (MiniLM/monoT5)
+   - Returns top-5 final passages
 
 4. Diagnostic Baselines
-  - Random retrieval: noise baseline for relevance
-  - Dataset-context retrieval (PubMedQA): oracle baseline
-  - Dataset-context-injection ((merged knowledge base)): sensitivity test for large-corpus retrieval
+   - Random retrieval: noise baseline for relevance
+   - Dataset-context retrieval (PubMedQA): oracle baseline
+   - Dataset-context-injection ((merged knowledge base)): sensitivity test for large-corpus retrieval
 
 All retrieval methods return five passages per query to ensure controlled comparison.
 
